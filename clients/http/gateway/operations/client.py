@@ -190,8 +190,6 @@ class OperationsGatewayHTTPClient(HTTPClient):
         :return: Объект MakeTopOperationResponseSchema созданной операции.
         """
         request = MakeOperationRequestSchema(
-            status="COMPLETED",
-            amount=55.77,
             card_id=card_id,
             account_id=account_id
         )
@@ -207,8 +205,6 @@ class OperationsGatewayHTTPClient(HTTPClient):
         :return: Объект MakeCashbackOperationResponseSchema созданной операции.
         """
         request = MakeOperationRequestSchema(
-            status="COMPLETED",
-            amount=55.77,
             card_id=card_id,
             account_id=account_id
         )
@@ -224,8 +220,6 @@ class OperationsGatewayHTTPClient(HTTPClient):
         :return: Объект MakeTransferOperationResponseSchema созданной операции.
         """
         request = MakeOperationRequestSchema(
-            status="COMPLETED",
-            amount=55.77,
             card_id=card_id,
             account_id=account_id
         )
@@ -241,11 +235,8 @@ class OperationsGatewayHTTPClient(HTTPClient):
         :return: Объект MakePurchaseOperationResponseSchema созданной операции.
         """
         request = MakePurchaseOperationRequestSchema(
-            status="COMPLETED",
-            amount=55.77,
             card_id=card_id,
             account_id=account_id,
-            category="electronics"
         )
         response = self.make_purchase_operation_api(request=request)
         return MakePurchaseOperationResponseSchema.model_validate_json(response.text)
@@ -259,8 +250,6 @@ class OperationsGatewayHTTPClient(HTTPClient):
         :return: Объект MakeBillPaymentOperationResponseSchema созданной операции.
         """
         request = MakeOperationRequestSchema(
-            status="COMPLETED",
-            amount=55.77,
             card_id=card_id,
             account_id=account_id
         )
@@ -277,8 +266,6 @@ class OperationsGatewayHTTPClient(HTTPClient):
         :return: Объект MakeCashWithdrawalOperationResponseSchema созданной операции.
         """
         request = MakeOperationRequestSchema(
-            status="COMPLETED",
-            amount=55.77,
             card_id=card_id,
             account_id=account_id
         )
