@@ -1,0 +1,6304 @@
+{
+  "users": [
+    {
+      "user_id": "9d8854fe-953c-45e9-999d-7e0f3b1a0c92",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "190057b4-1c2d-47f6-a805-9d8d3e00f5d7",
+          "physical_cards": [
+            {
+              "card_id": "6df52d32-6a78-4c2a-817b-f742479e8c02"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "89e65314-2997-43ea-8a52-c9c2da92770d",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "e47d04ef-9e62-4074-bfe9-2ec5e86a0f69",
+          "physical_cards": [
+            {
+              "card_id": "c60f9ff2-c189-429f-929d-3b9c32db8626"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "c6bb3ff9-edf7-4bc8-88cf-0c58cfc64a70",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "f0629013-541d-4801-acc9-6c3cb6931e27",
+          "physical_cards": [
+            {
+              "card_id": "b14bcd7d-c29b-4be1-8347-0af896e11e67"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "eda49d04-08db-4e75-be9d-0cb60ef17641",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "d0b2579f-bede-4515-a1a2-f966bd2a620a",
+          "physical_cards": [
+            {
+              "card_id": "548ce18b-d841-4fd3-ae67-1bf6d37d9a26"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "c7f1f9ac-b07d-49b7-aadc-41e7a7052736",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "b854711c-9024-4eb0-ab89-96d81653fd70",
+          "physical_cards": [
+            {
+              "card_id": "f93db094-4fd0-4ce3-8ecc-c4723a4671f4"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "ac4b982d-df2e-40bc-bf40-026005561a49",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "e796c6b1-79ba-4689-b449-1d09bb489548",
+          "physical_cards": [
+            {
+              "card_id": "9fba43ea-9005-40d2-ab8e-4f2a7acc5915"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "5f3afeeb-a73e-4763-b643-8b7687ac4daf",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "fd5dcf92-b914-463f-b4ad-262fa619fea7",
+          "physical_cards": [
+            {
+              "card_id": "758aa145-91b3-469a-bcdb-934ea0b22259"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "5d33c129-5b3b-4a5c-9df1-df6b4f5b1f99",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "19f66689-3871-49bb-8deb-174a34849a87",
+          "physical_cards": [
+            {
+              "card_id": "0aa5b442-d197-4b90-b796-ae9b3d78b286"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "e7c71a88-a0f1-4b0d-b287-394662805bd4",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "17e402f4-d0c9-4b5e-9843-b1312188ab1a",
+          "physical_cards": [
+            {
+              "card_id": "ed2e07c3-544e-4e6b-aa33-d1d1696b7ac0"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "6f7e9824-9825-40cc-bd34-dfe52b142157",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "19a94ee7-f3d7-4bfb-8d9b-64a7e5ae8e21",
+          "physical_cards": [
+            {
+              "card_id": "b499602b-356f-4d57-a5a4-c142c3d748e7"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "f8a6a875-48c4-4bab-904b-8efc5f9c8950",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "3a07cf13-a4d3-4142-9a5d-149d78db37e7",
+          "physical_cards": [
+            {
+              "card_id": "5b0b377f-2ad2-4968-a3ae-374ecc7f280b"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "4e44c33e-0f36-49ba-bf37-5f6f211f1a5c",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "74ed20e6-24f8-495e-8572-2c04ffc27c45",
+          "physical_cards": [
+            {
+              "card_id": "9435f61d-a9a7-4c59-9148-1977bddd80c2"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "82731424-5439-44a6-97d9-bb9ef4ea2c6a",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "34843740-808a-47a4-a4e5-bd9f8ae6ea78",
+          "physical_cards": [
+            {
+              "card_id": "969534d0-51df-498b-b165-96974f27eda1"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "6e0c953f-fe8a-4ee9-84de-49366ca8e5d6",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "2dab56fe-0061-4902-b3a8-113ddd7574ed",
+          "physical_cards": [
+            {
+              "card_id": "b89d4cb1-3982-4cf5-aee9-4e0375f9cee5"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "0abcf759-22f7-4e2f-bf41-53084ea0c0b5",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "5569df0c-c742-4cbc-b9e2-617082313c14",
+          "physical_cards": [
+            {
+              "card_id": "9140c4ca-cf8e-42d3-9ead-b9791632e067"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "eef2a299-e2f4-4143-8d02-9bf2a4dead62",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "34e66f79-39b9-4512-b670-44f9669cf233",
+          "physical_cards": [
+            {
+              "card_id": "409e6590-13c5-45c9-8d0e-b8978a2b86ee"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "5fe9bd11-a3af-47ab-a6ce-ff40a150ccdf",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "19d595f6-3edd-46a7-bfab-5772899a81f1",
+          "physical_cards": [
+            {
+              "card_id": "6e8bbdc4-d4df-4307-92a6-b0e06bd2f7a4"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "5b56e99f-63ea-4912-93ba-49cccb498ed8",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "fa5199f4-ee75-4c5c-9430-cba221591807",
+          "physical_cards": [
+            {
+              "card_id": "b1bff25f-6cd2-4dac-8f47-02f72aed48dd"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "30564ecf-5d94-458b-a9f6-bc324bcd3265",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "0d4b15ff-bcba-42c9-add2-8fe384d5e9e9",
+          "physical_cards": [
+            {
+              "card_id": "1160556e-b072-4525-a5b3-9a2fa7d89fdd"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "a974f61c-35a9-4aa3-a92b-1515d0e0c2da",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "f85d4efb-72b8-4caa-bf1e-10aea94278d1",
+          "physical_cards": [
+            {
+              "card_id": "fd5c228c-ac29-4d3b-9b29-0906a55bc321"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "0f969501-7780-470e-b50c-1ae5e8636ccf",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "da5c59e1-6e13-4df7-acbf-dc34d4eefb35",
+          "physical_cards": [
+            {
+              "card_id": "21120752-ba39-4825-8633-979039fd7cd8"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "98e69566-6df6-478c-a6db-9cbdcdecfe84",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "180b4552-6021-441a-8a5b-d17495f9e503",
+          "physical_cards": [
+            {
+              "card_id": "d6e14a29-2c6b-428d-8f90-c2644b3e0e1a"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "4b3dbcc6-9da3-48de-9a20-e56f1821292c",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "667893b5-a44b-4eb1-b189-e09354edcf87",
+          "physical_cards": [
+            {
+              "card_id": "dacc455e-1276-48a7-863e-bd60b860938d"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "dc9a6ea3-96b9-405f-84f4-b24e31ff7f37",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "e7d1137c-2994-41a4-a583-484b10de19e8",
+          "physical_cards": [
+            {
+              "card_id": "8eced5aa-367b-4c0b-9890-118ae590494f"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "8b61774e-80b5-4d2c-a377-2907b1ce4125",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "457b7b88-2162-46d5-92b7-bf2092265f4f",
+          "physical_cards": [
+            {
+              "card_id": "6b99a50b-9b51-42dc-8f78-a1f3c8308035"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "33a871f4-c1f8-44e2-9782-0c75c9011458",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "862616e2-c604-4fc2-aa16-b9c7d97d6859",
+          "physical_cards": [
+            {
+              "card_id": "5884d536-b9e6-4966-9f91-26aac167b109"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "49ba049e-8642-4ff3-8ca3-444ebe51c752",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "30814a79-6c76-4f13-9d91-4725aa326f16",
+          "physical_cards": [
+            {
+              "card_id": "27333e8a-5174-4519-b6ce-6fd93980434b"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "2e138f14-3b10-48a8-ae50-90b0e8e33cd8",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "4aca94ac-2b11-4ecf-8b02-2a325ab725ac",
+          "physical_cards": [
+            {
+              "card_id": "deedafba-f95c-4701-bdb2-445bfe767463"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "ac591f10-5aac-4daa-86cb-ad4ec2e03ca6",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "b8257a4e-2b83-43d6-a548-e4f50080e34f",
+          "physical_cards": [
+            {
+              "card_id": "32451305-a9e8-41c2-90e9-b74b7c838e28"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "35d8ff4f-e3b2-4971-975a-897fcf9521ef",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "fc9ee31b-20c6-4048-956c-56fa62b50883",
+          "physical_cards": [
+            {
+              "card_id": "837c743b-9488-4ddc-969e-a04b09e62f96"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "ead04483-488d-442f-b240-0d4884ba1e28",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "2f4215a5-9a63-4918-98ec-cbe3f3cbe231",
+          "physical_cards": [
+            {
+              "card_id": "8fba136d-c44c-45a3-a56d-854857a712e9"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "c79ee5c9-7a7e-4993-9218-f9245f561960",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "b6a56aba-d067-478d-9e48-767ed114f754",
+          "physical_cards": [
+            {
+              "card_id": "6a32ff5f-d2e9-4323-9f0c-e98959d42429"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "adf0e11f-4030-44e2-b719-5aeb3989fc42",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "34739798-7647-4469-a591-342d67eb8f52",
+          "physical_cards": [
+            {
+              "card_id": "ecf2de09-4b7f-4e33-a02a-273d349742bf"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "2272a35e-451a-4534-b3a6-723f05eacbf9",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "9342cf6a-fc88-442a-ba0b-822e7e619d86",
+          "physical_cards": [
+            {
+              "card_id": "4da7ae35-7d4e-4b5a-91b9-17eceb2c7996"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "89f76ffd-289b-4700-ab30-f73cae418ec3",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "ed3b9757-b087-4104-9d75-6ef5b47faa18",
+          "physical_cards": [
+            {
+              "card_id": "54a59a47-84a8-49e5-9b11-7aa5fdf17006"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "4e6e8e5a-be4c-4e81-bc92-c8a132e0f04d",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "3001a0ea-f080-4367-b913-ed719d7ea227",
+          "physical_cards": [
+            {
+              "card_id": "21cc1ee5-f39e-4c4d-ba6d-6f4e65fcdf24"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "4a9a9844-534d-4c47-96af-f3f54296f4c3",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "61ceb49e-d316-4925-8bec-81b4b9a38bb9",
+          "physical_cards": [
+            {
+              "card_id": "e0177d98-9b2b-4595-89c1-8c864508035f"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "06c4498e-1651-493a-b7a9-efa379f66098",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "5cdb0a0a-da7a-4319-ba6d-0e0c78b676c5",
+          "physical_cards": [
+            {
+              "card_id": "978588d8-fbb0-4561-badc-65d56d03f383"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "e5926418-03d9-4a32-a0d4-380d01eb5ac0",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "6805f349-21a0-4855-af8b-66c38ac73f45",
+          "physical_cards": [
+            {
+              "card_id": "5d29721d-1fef-4350-a948-315517557e62"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "09fd9cc6-d8dc-46b0-867b-9147528dc593",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "070ca678-5744-48fc-8dc6-76c369634cce",
+          "physical_cards": [
+            {
+              "card_id": "dddc5efe-736c-493d-b80e-898eda025f75"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "e153056f-a254-43cd-8e69-b2f0144e50fb",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "71d660b3-95e3-4262-ae24-9c57c86d739f",
+          "physical_cards": [
+            {
+              "card_id": "104cd2fb-c4d7-463b-a8dc-8d5ed7634332"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "3aefe89e-a018-4e7e-a310-67cda8e5c977",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "0e18d799-a682-465a-8e13-6a8e87ffbd4f",
+          "physical_cards": [
+            {
+              "card_id": "e850a223-3303-4cf1-8df8-911ead9e1271"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "d9ae9792-2395-470a-81ac-3efebf2acb2b",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "0b273d58-cc67-40c8-b00f-00178a08f968",
+          "physical_cards": [
+            {
+              "card_id": "e17f7272-69dc-469e-b2db-ca849e0b3ce2"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "3b068e8a-c89b-47f9-b12e-45a507a64dc4",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "bb324f1f-0953-4d6c-b265-289374aa7164",
+          "physical_cards": [
+            {
+              "card_id": "16b126a7-89da-4a43-b907-cdd83afd91aa"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "e588f5cd-8b49-4636-bd52-de7778079e5b",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "f3955176-8ce3-494b-a729-4bf4b852d9db",
+          "physical_cards": [
+            {
+              "card_id": "a285a887-b95f-405a-a626-088bcd142901"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "3acb8739-dc77-441c-9460-aa425d5125b8",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "ff8523f7-49d0-4bf9-b656-fa655fa71824",
+          "physical_cards": [
+            {
+              "card_id": "71f22196-fce6-47c7-9b5a-4fa4dadce5dc"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "7d83933f-ee9d-46cd-a92d-f0d7a05f62a8",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "2260417c-50e3-4323-8808-f65b069c7a2a",
+          "physical_cards": [
+            {
+              "card_id": "41412bab-9772-4df1-91dc-ee56ead09bb9"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "525a1f77-d73c-4cb9-9ea2-46e55e1093f9",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "0beab926-285a-4d1f-bddc-6f4935bdbf83",
+          "physical_cards": [
+            {
+              "card_id": "c7282868-e7d6-4ff5-84db-2a41c97eff1c"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "f449339c-afe7-446b-b2ab-72ee70d63dc1",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "92a6b05c-0d3a-4cdb-ba31-4b144335f8f5",
+          "physical_cards": [
+            {
+              "card_id": "ba4b5c23-841a-402d-ace4-8ca7955ae688"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "16e8b789-f8e3-4426-b524-95726126cb94",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "661350bb-e27b-4e6c-bf1b-09b0873f5c9a",
+          "physical_cards": [
+            {
+              "card_id": "b77fb294-67ba-4247-b26e-541ec98bd9cb"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "d7469831-10a9-42a5-ae38-edd3b5d24494",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "72d2b729-ca87-481b-8532-6a61cfaa7b37",
+          "physical_cards": [
+            {
+              "card_id": "c5be427f-d991-420e-93b2-b8fa405fb186"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "1acb43e8-541c-4aed-b0f0-a3bc1b65d1a8",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "ce260e69-a4fc-4552-8cb6-6bef2a28b322",
+          "physical_cards": [
+            {
+              "card_id": "5ca083ff-2434-4f10-a6b9-bc8bd8907298"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "dbb54a80-631d-44a8-bbeb-0f6efa6fb0c3",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "b733200c-8320-451f-9c9f-f2a8a1d03705",
+          "physical_cards": [
+            {
+              "card_id": "10e69d29-b6a0-4851-9440-366f3a395da2"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "ae9d1a28-c3f3-4827-af5c-9df51aa808b3",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "4b6ea348-b207-4a4b-861d-dc1dfbf8b21c",
+          "physical_cards": [
+            {
+              "card_id": "68735337-3f09-4d0c-9ca8-98004447ae54"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "14ec999a-c836-4dea-b8e4-255a6ab12cfb",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "074c5d1d-422b-44f5-ac97-cd79fdcec537",
+          "physical_cards": [
+            {
+              "card_id": "4e0f59ec-c9cd-40cc-8184-8cac84baa25b"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "589489ee-9933-438b-8859-608c9912487f",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "dd31d920-7e69-4da2-9971-78b984b0d5ba",
+          "physical_cards": [
+            {
+              "card_id": "1b40b6df-ce10-45f6-91d8-6d653f66ec6b"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "31bc1916-73fc-4c15-a9e3-0090dec62d7d",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "5cfd0cef-607f-449a-a96c-c79d337e522d",
+          "physical_cards": [
+            {
+              "card_id": "82f56f0f-8f2e-46ed-b0b0-2d9a4f9eb67f"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "b1da2992-3136-4aaf-9285-0e1b7e3d4590",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "852a066f-c092-4ca0-a5ea-354cba0d0489",
+          "physical_cards": [
+            {
+              "card_id": "6a5f6621-5226-46c9-84fd-49eb970d2c31"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "8e668244-ab7a-47a0-a116-200abf93f6a6",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "23e9b897-a1de-438d-9ae4-e9a809cdcd2e",
+          "physical_cards": [
+            {
+              "card_id": "27a33781-5c48-49c7-aa4c-0728e87112f4"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "5e3b0d44-7cb9-4dab-b5cc-acb9b5cc39ee",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "3d7cdda8-2248-46a8-bba7-c39bedfe5e08",
+          "physical_cards": [
+            {
+              "card_id": "4b45f656-dd32-4e2f-81a8-587c5a544ae5"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "676bb32e-c683-45b0-9e9f-a390fcbc558e",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "9709433e-9311-4592-be5d-ddd2609a2991",
+          "physical_cards": [
+            {
+              "card_id": "d75eef1f-7ebf-4639-82a8-3efa4482031e"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "690f8cc9-ed9d-4859-821d-d2dfa0fa974b",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "3afe5849-9f2b-4b52-a0ee-91b59193dd66",
+          "physical_cards": [
+            {
+              "card_id": "d68a1eca-5ff1-4ef4-88cc-972243855d8d"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "048cbf83-7521-4632-8ed6-d14346b0fe73",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "627b139e-017a-4d4c-b305-dbd0782b220a",
+          "physical_cards": [
+            {
+              "card_id": "616d6f85-de4d-451a-a584-cb89926eef4c"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "68a30382-5c19-4cfd-8768-923a8f1692c9",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "b8ecac41-1558-482d-b1c1-af852b019679",
+          "physical_cards": [
+            {
+              "card_id": "e6fd0b0d-26c7-4f51-8d0d-8cb36d32df38"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "b6277a69-1c7c-4ca3-a202-764ea44ad1bf",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "f333ca8b-ef4b-4c81-9580-3aa7a750f1ec",
+          "physical_cards": [
+            {
+              "card_id": "712bdc8f-48ea-4640-a563-7e47a364f5d5"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "eac28f8b-bb8a-4330-9a51-8e4ba8f2afb8",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "a9277fd9-f19d-4087-afaa-2188fe015d69",
+          "physical_cards": [
+            {
+              "card_id": "1da07ba6-9657-49f1-b093-97c4ceb86be1"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "fb99f23f-1d8b-4b2c-86ff-43d1e68029d9",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "893bf0f2-e202-4803-95cc-b90b82bc49ab",
+          "physical_cards": [
+            {
+              "card_id": "cd020a06-8158-47d9-8c05-72f9f7def875"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "9a993dc8-a36b-44f8-bd56-86614aa2cc4d",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "507906d4-cdb3-4768-9789-74c05e132583",
+          "physical_cards": [
+            {
+              "card_id": "dd01c645-3a6c-45ca-961f-f3950b86611c"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "74dcd09b-a59c-4991-8dba-9078de754528",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "bdbbee3b-f53c-488e-b6ba-411bb692cce9",
+          "physical_cards": [
+            {
+              "card_id": "6812c4d6-802a-4036-8964-d0c0f2166490"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "fadd69af-10f2-4b10-bb92-21daed76d176",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "b22d16e9-346f-4520-b0e4-798904ee9e48",
+          "physical_cards": [
+            {
+              "card_id": "2639ea1b-a0a3-4521-9663-6a49a2cc08ba"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "f24e7a62-bfb7-4437-8e34-a8eafed70484",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "ced61c1c-32bd-4d1b-a1f6-417ceb824ac9",
+          "physical_cards": [
+            {
+              "card_id": "746bbbfe-7dce-4733-b4cd-146548bc9427"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "37c41736-7803-4442-a361-109e1e2f09eb",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "355a7486-af6e-4545-88ec-ba571b1b5cfb",
+          "physical_cards": [
+            {
+              "card_id": "9e9e480b-5b26-4f5c-8c92-876cc310270e"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "6d2035cb-7fb9-42f4-8ead-a92cba2b153c",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "0de85518-d90c-4e71-a1a4-763c7f6bf09a",
+          "physical_cards": [
+            {
+              "card_id": "31ac5dc9-8bbf-4b7c-9282-71beb542c765"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "23165e1b-cbcd-47b3-9e1d-6c5dbcc6de76",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "499f9207-418c-4470-b973-452c8589ac66",
+          "physical_cards": [
+            {
+              "card_id": "df44b9d0-26b8-46e6-8403-cddbf7777d30"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "c37b6d49-7d2b-464c-b8fe-ceb8415fd756",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "382d569f-f194-4055-8a92-3d699c11c76c",
+          "physical_cards": [
+            {
+              "card_id": "cfd88063-7bbc-4ee5-b598-fd78ec27df74"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "c0d14903-9e24-4ab0-b411-d75162b47e8d",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "e8ccc782-d71c-44f6-bce0-dbacc43f4a44",
+          "physical_cards": [
+            {
+              "card_id": "06c40251-b784-4332-b89c-d9ee65dab7aa"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "43ac3d34-6ded-45a5-8354-2dc58fa58d99",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "c6bdc6f9-8019-4c1b-9045-12df20dc4d7f",
+          "physical_cards": [
+            {
+              "card_id": "82b861ff-7c75-4c58-8d27-fe3c1139d8fb"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "c98736f5-cd29-4f97-b3af-4ce7b220bfb3",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "a5110ab4-4a77-4906-808f-a91b32dd66f8",
+          "physical_cards": [
+            {
+              "card_id": "a03038c7-6503-4cce-9200-e487c3b18961"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "8072b765-adfe-4abf-8147-714318f0dfc2",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "ae18196c-96af-40c4-b285-65089a924009",
+          "physical_cards": [
+            {
+              "card_id": "14ea9512-cdbe-49e5-a231-7d2c78a9c6dd"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "94f09302-b1d3-4564-89b7-35bd1ad27808",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "e6aa3f7f-af0d-4e9b-a142-1d829c4f8538",
+          "physical_cards": [
+            {
+              "card_id": "900b5f5b-a40e-4b89-a8b9-a1577d5acaf1"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "ae16a2f5-4405-43ac-99cb-40a8bb281da9",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "e7d0dc2e-ffbb-4f42-93ba-95d51a749ec6",
+          "physical_cards": [
+            {
+              "card_id": "7d01690e-99d0-4864-a5a4-316e1eba080d"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "80df13ce-a424-407a-b54e-b1bb925af73a",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "919ff019-6cfc-43aa-92de-2d8af6ebc23f",
+          "physical_cards": [
+            {
+              "card_id": "238c706f-6137-4417-81e9-4ce137c45c2f"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "92054ca6-9051-4783-bde2-cce5262142ce",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "44a597a7-8147-4114-beff-0c4dda7338c5",
+          "physical_cards": [
+            {
+              "card_id": "ecb5e80e-4ef1-4ff2-9efc-8b699cd313aa"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "a3ee1764-b919-47e0-9f4a-97ca8471b0ca",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "b0cd9166-dfe7-48c0-9ce1-33483d8604db",
+          "physical_cards": [
+            {
+              "card_id": "5549074f-db53-48f3-9416-1890d13e03c2"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "ffd69e47-1654-439a-9a50-e127c601275b",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "c8c7bff9-9951-4cf2-b6e3-12c58008e068",
+          "physical_cards": [
+            {
+              "card_id": "c61269ee-2ff0-4ef5-bb4a-2d6f30b12e7f"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "11dc899f-6dd2-4acc-a0c9-9daec7c1846d",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "c0fada7e-7307-4b52-b38c-2e7f9fddcc04",
+          "physical_cards": [
+            {
+              "card_id": "b3c0c96f-2408-4ebc-966b-c56c704278fa"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "f75867ce-4cb8-4db5-bf92-32a8971f76f5",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "a0ec9efd-4956-4b86-830d-bd798c82e349",
+          "physical_cards": [
+            {
+              "card_id": "8520edc5-c52e-4635-93eb-b3d9085ca446"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "d8f4d817-85e6-46b6-b939-498da5c80f40",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "901205b9-78fd-4317-9355-0a7c3bdfbbb5",
+          "physical_cards": [
+            {
+              "card_id": "fcd0dcd5-b8ef-4e38-8688-9509f1d61a89"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "ce04008d-c48a-4ecf-bc90-ff5a10590dde",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "d7552bdf-7b1b-41fe-9f56-9c620c5daa7a",
+          "physical_cards": [
+            {
+              "card_id": "eaa7f6c9-57b0-46e5-b937-bfce049c5e54"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "603c6d47-7f84-4b66-8cd8-81ee6c353b81",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "6cdad16a-311d-4513-be3b-d046f6c61ca9",
+          "physical_cards": [
+            {
+              "card_id": "ff2dee07-d520-4db5-8f3c-f3306bc8553d"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "8e5c1d26-74ae-472a-96b6-bbb97004c9df",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "57d7a3ec-7765-4860-9f9d-be1b4880a8ed",
+          "physical_cards": [
+            {
+              "card_id": "f09b7bc7-0b85-4c9e-9efa-7d4efd0d3ca8"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "2fbf940d-79d2-4786-b342-16a50722f5e0",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "4f5dcecc-a961-45ae-8e7e-30b3def7d784",
+          "physical_cards": [
+            {
+              "card_id": "c8c26ee7-98a4-45bc-b69b-f7d7daaf6fe1"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "e9b5d05d-c654-4188-8f93-35de31be91bb",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "440ba0d6-d06a-454d-a874-f142e8fed37c",
+          "physical_cards": [
+            {
+              "card_id": "52e0c2d9-898b-4dd3-8e59-417f03fbc9c0"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "f492fa95-93e3-46d1-8765-1e5f43dd204e",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "df377e00-ca7e-420d-a40c-4a231336c754",
+          "physical_cards": [
+            {
+              "card_id": "59cf8795-643c-49a2-9889-531d28c811f9"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "b494daec-725d-4e5d-a704-47dc37e46ae2",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "bd56a686-ae2c-46f3-a481-264697f8ce87",
+          "physical_cards": [
+            {
+              "card_id": "635b0d83-72f7-47a9-968d-8342d9a21c79"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "377c308a-e293-4244-9852-d724ac5047ad",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "be8f0bd0-45ce-4b61-b161-1434a686b9d3",
+          "physical_cards": [
+            {
+              "card_id": "aa6a1c27-4edb-4901-b54d-8590c9f79d9c"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "12937b91-f9e2-4c25-b1e0-781f48b2a8c6",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "abd5ad86-fe34-4b1f-9c3b-1eceff966a46",
+          "physical_cards": [
+            {
+              "card_id": "1a0f5d72-9d64-41f4-bf4d-156562e2f488"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "3fda2840-eb35-4198-9f60-f038784a1ae3",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "9166f87a-ab0c-40aa-8ca9-43de3f03ee37",
+          "physical_cards": [
+            {
+              "card_id": "44923885-06f1-432a-8693-141ce918d0e3"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "090bc049-1e84-48c0-a66c-b8f145253bab",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "d3356061-3932-4928-a70e-188d55b46fa8",
+          "physical_cards": [
+            {
+              "card_id": "ca66fb4e-d94f-4677-a24f-d9656b8cb7c0"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "b5b7f171-8e9e-486c-ada6-c198b325b681",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "ae69812c-730b-4039-8a8c-5b71a8426dff",
+          "physical_cards": [
+            {
+              "card_id": "88a55704-e3e7-4712-9b3d-6fa2f15c3e58"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "6554bd69-150c-4539-b21f-278c72e6a5fc",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "705df739-1405-47f6-bda2-7cf7d438e34c",
+          "physical_cards": [
+            {
+              "card_id": "c8146175-3850-42ec-8a1c-471a1d4d2cf8"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "43ffe306-2ab7-499e-954a-c52e38eaf820",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "a9317c02-3ef1-4f21-80c3-de2d29fe1012",
+          "physical_cards": [
+            {
+              "card_id": "38ea1e23-ec76-4f2f-956b-8efff9682004"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "4793ecbe-6883-4d6a-b4fa-f3ea2ca1e6fa",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "5ab32f18-aea1-494b-8ca0-c8a134193043",
+          "physical_cards": [
+            {
+              "card_id": "9f8c7a79-a079-45dc-b3f8-448b33b96630"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "65259b52-6647-4630-abf2-2810dbdefdc4",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "4a4a5a4b-c464-4149-8b0f-c4824d441980",
+          "physical_cards": [
+            {
+              "card_id": "1350b00a-36a9-484a-8c3d-9997fed22ec9"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "d5b6300c-eeae-446e-8b3a-5595b61b9169",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "28107d52-661c-41de-932a-e4b7eb0c09f7",
+          "physical_cards": [
+            {
+              "card_id": "937fef02-c872-4f60-ba1c-9e48bffd0f84"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "2454b82a-1d97-4f25-85fd-c13b24fa2d3c",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "02d0015c-9c65-4fe3-906f-a0c9e1efa7b5",
+          "physical_cards": [
+            {
+              "card_id": "399ef19c-0775-4d00-8d73-b8c5d5c0d9f0"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "9db032c8-5dab-4804-9545-5ac04538ea69",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "7b89134e-af8d-448a-84f6-9295931b91ec",
+          "physical_cards": [
+            {
+              "card_id": "3c2a1109-638b-442e-8e01-6677a0d0e69c"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "2a66b3b8-579a-4a83-8013-04af347bf445",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "4adc2bcd-a165-4643-b637-df1674e373b1",
+          "physical_cards": [
+            {
+              "card_id": "f1dfcec3-958f-4c4c-a3a1-e4606f1607e8"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "509ea936-c8ec-4de0-a81f-e47e061beaad",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "636138cf-e43e-427a-ad51-ce3461077932",
+          "physical_cards": [
+            {
+              "card_id": "a0bac10d-fbc4-4e95-8967-44b4365a0ebf"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "859d1875-7590-4df3-9b28-99843a0076ed",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "e0dd7706-8647-477e-9aea-5d340956b87a",
+          "physical_cards": [
+            {
+              "card_id": "b9840db5-1d49-4096-867d-9f29094cda8e"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "8d8fb662-398f-43e8-ae23-edac371a5f0f",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "6090b41a-a4e7-4511-9d85-94ace499b0cf",
+          "physical_cards": [
+            {
+              "card_id": "ff01f306-7965-449b-aa57-634126413a86"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "516a3ee7-579b-47ae-bd28-e048621ed4ee",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "3fae5e7e-2513-47ae-a481-31adae728783",
+          "physical_cards": [
+            {
+              "card_id": "e3efc5d9-7cef-4594-af9c-e118c8add29f"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "d27eed27-732b-49da-9dc3-e15a8767712c",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "9b1a487b-1080-4485-9f3d-9aae3adce624",
+          "physical_cards": [
+            {
+              "card_id": "beb19bc3-1463-4887-8240-58346aa1545c"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "77c6426e-151f-488f-8732-4c6fc34d4b06",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "1c749d6a-b7b5-42a1-8884-44bbac70082b",
+          "physical_cards": [
+            {
+              "card_id": "da245745-28ab-42a7-80f8-85623e634eb8"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "98648e99-e89e-4aed-9788-4b0f66b7ea56",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "6fb9c1dd-6dc5-4762-a697-6e2662cbd7c7",
+          "physical_cards": [
+            {
+              "card_id": "9051b506-4173-48d6-b1d1-b05067b20ab7"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "a9f22ffd-be88-4204-913d-169d8c76bdc9",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "4fcaa8b7-8af1-45b1-9488-3df3ff46171b",
+          "physical_cards": [
+            {
+              "card_id": "04b13717-f2f7-4972-a8b7-dbef3832b0ed"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "e4f78d10-07ee-40a8-8313-1c9fcce97a4a",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "0909d2a3-ddde-4212-b2d5-bae3e8d369e2",
+          "physical_cards": [
+            {
+              "card_id": "79d9c8e1-e2d8-4cbb-a59f-6bdaf153bf76"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "e069aeef-d0b6-415a-bae2-160de8a5ffb1",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "a63f55e1-0ff7-4a52-bdc6-8459e6c7c1bf",
+          "physical_cards": [
+            {
+              "card_id": "89f2b2f6-4d93-4d22-9c6a-763bffcf556d"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "5e2f4c23-39cb-4740-9aca-386f225c5a67",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "43804675-b7eb-4a69-a7b4-6b356e07f960",
+          "physical_cards": [
+            {
+              "card_id": "343dbfd4-2f62-460b-8fbf-93fc022ca0f3"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "9e8869b7-8bdd-4d0d-8225-5032060fde4f",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "7dcfbe45-66db-484f-983d-8fedb1a2d0d9",
+          "physical_cards": [
+            {
+              "card_id": "82cdd09f-1a7b-48bf-8cc4-74cbb4c87c26"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "501899e2-6df9-40fb-b79b-b028ce66fa1a",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "bc14b8c4-c896-4b62-b673-b7fd4d64dc76",
+          "physical_cards": [
+            {
+              "card_id": "a2b65e6b-df0f-43e9-a9eb-1cde8c0f2e84"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "c655a5c6-286e-4a60-b9f4-f3fe930b0588",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "3e9da346-da23-4c20-9eee-5633a02b1a3a",
+          "physical_cards": [
+            {
+              "card_id": "75b2d6ae-397e-42d9-b73c-8ac7a3cd4a5e"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "a5f68d99-d585-448a-b833-90e6047259ee",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "053cafa1-71c0-4982-8319-df2bff7fc758",
+          "physical_cards": [
+            {
+              "card_id": "3da1a255-c827-4ac5-9777-2bdb4596377c"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "bcbbcfe5-4abc-4ece-a968-07057678fe90",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "739a52cd-d36d-4f87-a657-0fe633890fde",
+          "physical_cards": [
+            {
+              "card_id": "390d0f70-618e-4740-a8c1-719eeb2e9759"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "c54259ea-dfaf-4f56-a544-22040b03adcb",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "ed3ad179-34ef-46ff-b806-23ac89835b33",
+          "physical_cards": [
+            {
+              "card_id": "310c478c-2658-4334-9ae1-fe6cfeca8936"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "ae3b6c8a-18c2-4d00-b4bf-024688bbfe21",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "ded68fb8-12a9-489b-8dd9-fa46dda085db",
+          "physical_cards": [
+            {
+              "card_id": "10c4c76c-3683-4248-ae3a-9099881edbd3"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "a444ab1b-6ea4-471f-8144-04113abe4c26",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "0fbc3459-6d67-4466-bb38-b3685fcde69f",
+          "physical_cards": [
+            {
+              "card_id": "a58ce290-362d-44a0-bfc2-74bb73e6eb81"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "3f5f4224-00d5-4f64-8420-63abd8fb2f1e",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "d58e61af-367e-4413-bc8f-bec015208100",
+          "physical_cards": [
+            {
+              "card_id": "0d85c34c-2022-4e04-aff1-b1337ae41c1d"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "cab9f388-878f-486b-b406-3e130caf93d5",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "18fa475b-a3be-44d1-8177-09a672809050",
+          "physical_cards": [
+            {
+              "card_id": "387a1a0b-6816-4a7c-a2e0-0bde1d94f637"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "5072f72a-6338-4005-acad-1fc2ddf75ef6",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "3b78b50a-884c-4a24-ba2f-c9383421fa00",
+          "physical_cards": [
+            {
+              "card_id": "a1a6d6a7-cd17-4894-886b-d071e91ad59d"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "ea194d26-dad8-470b-b9b3-6ccbfbadec6e",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "2a2efcfe-6e08-4316-9f7d-5bd4c1469c63",
+          "physical_cards": [
+            {
+              "card_id": "27a46085-5bf6-41f2-aa86-5c8d11f173be"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "9ce5ba4b-d3c3-42ae-b186-fb1e478fc0dd",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "037d9e64-bd36-4e3a-9fe5-1692e8c0181e",
+          "physical_cards": [
+            {
+              "card_id": "7ede8c70-31ee-4be6-bc77-48044b2f93c7"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "f341d8f0-6032-4e10-ab2c-69091e5fd5fa",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "194fdcfc-98bc-4549-b996-a7ac501c1f17",
+          "physical_cards": [
+            {
+              "card_id": "fdb97624-7a5e-41fe-9f5d-5883f5815709"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "0c919a74-9979-4175-83de-017f40926b7e",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "4a1f721d-2399-42df-a9a9-94c0b1aec168",
+          "physical_cards": [
+            {
+              "card_id": "c629020f-d2fd-4a84-a11e-fd86f30ecc1f"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "9ec52dc0-ef23-417b-9c86-21b60488fd84",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "ff24384c-8e96-45e6-a63a-921fb6602ed2",
+          "physical_cards": [
+            {
+              "card_id": "1eb9c9cb-9a65-4fd1-864f-e8860236404f"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "e260e38f-e60e-4b9f-a78c-bc14f0446bb2",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "3cd05c08-5c94-4fe3-b291-c1de7f89ba4b",
+          "physical_cards": [
+            {
+              "card_id": "0fee3637-befa-47ef-b844-109995654c32"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "4dd24847-6e4d-40bb-a147-a28d57929d18",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "48157ba4-ff1f-4cc1-ae1f-a67b6f8bc073",
+          "physical_cards": [
+            {
+              "card_id": "19861320-ae37-41ea-8d8f-e5e26e7b24aa"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "90bd25a6-b1be-4bb7-acfb-a1597522a939",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "ac22b369-22f7-4239-9a6e-42a2ea5c1ea0",
+          "physical_cards": [
+            {
+              "card_id": "ae625819-ea81-4da2-8ff8-f11174913a48"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "880070b6-b803-4f63-ba82-6821cbbaa005",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "884401ff-2f36-45ea-a058-04335031f336",
+          "physical_cards": [
+            {
+              "card_id": "ac57a153-a6e3-43bc-bb1e-bd2f5dfbc803"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "d1a58ce7-a2d3-4440-897c-e2bf1e40ac1e",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "81613c93-a726-4be9-89e6-0d4fc482bf5a",
+          "physical_cards": [
+            {
+              "card_id": "3a79f15f-89a7-4b35-8715-3593cf86571e"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "33efd915-83c9-4ca2-af9e-e1dd98c99e49",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "371842e9-2820-43f1-a06c-f6cb091ba546",
+          "physical_cards": [
+            {
+              "card_id": "b22db99a-0785-4b3c-a6e9-81b4ea0db798"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "01a7bf2f-e370-449e-93fa-9e88d11e1638",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "f4c64296-cb61-40bd-995c-b5713b33d5b9",
+          "physical_cards": [
+            {
+              "card_id": "7f319399-1791-41bd-986b-9906d9c3561c"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "3f061cc9-38b4-4797-9a4c-4fdc90ecea05",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "70c7efa2-ef84-4ee3-80f4-df057f420e3b",
+          "physical_cards": [
+            {
+              "card_id": "f5a3ff6d-a67b-4608-bf43-750f0e6db065"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "d1c1d932-b3de-45d7-80b6-54c4258e1839",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "96927ba0-5b48-4131-85c9-a91cbfc2a34c",
+          "physical_cards": [
+            {
+              "card_id": "3dc44833-68d0-4061-9a0d-6ff24fc6d2d2"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "53c49074-0070-4b70-b940-d34eeaec379b",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "c85d605a-8ca7-4056-9702-3dfae8fc7662",
+          "physical_cards": [
+            {
+              "card_id": "9798efd4-8b3a-4142-8d43-23673f410d0e"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "900df071-e1a2-4e38-b872-22e9bea61557",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "4e417a9a-3e1e-43e6-aa92-d68c81274f86",
+          "physical_cards": [
+            {
+              "card_id": "0e81d1ee-955d-4170-acef-001e370cf0fb"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "4e468d4f-35ff-40ce-8dfb-ce93bc1ad3d0",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "9685f12b-b813-46aa-91ba-82ccf129cd68",
+          "physical_cards": [
+            {
+              "card_id": "72fed0da-98ad-475d-8de0-1cba2ff8e208"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "7d8f1879-6d83-425c-87f0-8c521df81d24",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "66867469-0e3f-4f26-9798-1c7bcbf919af",
+          "physical_cards": [
+            {
+              "card_id": "36286e08-0a3f-4c31-8bb2-fe3546b71e6e"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "86283b85-8c76-4dc3-876e-5cd98e751ef8",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "fc6ca1a1-63bc-47ea-bbac-c85ec3536184",
+          "physical_cards": [
+            {
+              "card_id": "d9ce52da-93f3-4bb4-a5e9-e431bbe0481d"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "577d121b-323c-4baa-b543-f5728c1cc6e5",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "eb47251f-88aa-4469-9508-946ae6007370",
+          "physical_cards": [
+            {
+              "card_id": "74d5bc06-33de-4eb6-a464-059d16feccbe"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "703b767a-7fbe-4562-9cf2-683e82efcbc1",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "327ce0c0-241b-4aae-940c-7cacd32fb2e5",
+          "physical_cards": [
+            {
+              "card_id": "1fd3e5b3-eb78-4758-a329-45dbd351958d"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "a63a719f-2846-400c-942d-631bec78f361",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "dde6be78-f812-4bf4-87e5-4907ef5de3be",
+          "physical_cards": [
+            {
+              "card_id": "c6449228-a901-4dcb-b3dc-bf5b6eb69113"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "cf1831a6-caee-4911-b174-171baa4811ac",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "7222a83d-9e71-4157-b2ed-d012587f80d6",
+          "physical_cards": [
+            {
+              "card_id": "b0d03b4f-e113-462a-be8d-90bfb9059fe0"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "f94edab2-a100-463c-b024-8ab3c80dc93e",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "fa0ebedb-7baf-44ce-a37f-f1046b7e7fe8",
+          "physical_cards": [
+            {
+              "card_id": "3a4b40a6-0dd6-41eb-8d8a-511c702567c3"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "0db02b54-9018-4455-8319-f9309609cc5a",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "97862bf5-2c60-4b9a-964c-373e47f01e9e",
+          "physical_cards": [
+            {
+              "card_id": "13117aad-faa0-4265-97a7-bd3a0aab0cd4"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "6b9a31a7-99a0-443e-978c-7cfab57aa0ee",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "955ddcf6-9f89-45ed-aaba-0cecee25c9ea",
+          "physical_cards": [
+            {
+              "card_id": "f21b13cb-ea49-4ae2-9652-5cf6333b0623"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "1c7cd83b-6888-45a0-8e9f-b58463823945",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "1a6dd891-e11e-4096-90c9-6759e3e8bc2e",
+          "physical_cards": [
+            {
+              "card_id": "41d583e4-66df-4a23-8593-7c0378d92f91"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "f5ce17b0-4222-425e-b334-8268cd2c18c2",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "dd05a674-f26e-4a99-a3e6-1d920e04095f",
+          "physical_cards": [
+            {
+              "card_id": "d36d12a4-6ee4-4782-8d3d-fe3d3f0a6e18"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "a109d209-c3cb-4b5d-bb30-6743e61fc4a2",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "9f0181b5-6ad0-4827-b5e6-986eca383aea",
+          "physical_cards": [
+            {
+              "card_id": "115cd71b-ab79-4596-a127-c462b5601ddd"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "ce496ae8-bbb5-406e-b965-6218e732a3f5",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "7d9164d9-d8cd-4c73-95aa-2576b4ad6575",
+          "physical_cards": [
+            {
+              "card_id": "d9b6a4a5-b529-47da-aec5-4a7e33472701"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "7ef582b4-de61-45a4-84e0-2bd7ab712bbd",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "b50142bf-c96d-4591-ac95-19329376b2f8",
+          "physical_cards": [
+            {
+              "card_id": "6f421ec7-9e40-42cd-9f70-3bf5b259bd75"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "4568146d-442d-4823-95b4-e08ea947d665",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "c93da34b-45b3-41f0-84b6-d05090cc0f28",
+          "physical_cards": [
+            {
+              "card_id": "2595d2dd-18a8-4f8a-a134-7bf2bafd31f3"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "e9494d09-653c-4f01-9560-c0234e25cec0",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "173b5847-67b0-45f9-bd57-b409412b1d5e",
+          "physical_cards": [
+            {
+              "card_id": "5f8320c9-8b4e-456a-bab1-55b6412a8950"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "264ef5dd-91b5-4a04-92b0-6656148db19f",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "10a69f3e-9503-4f27-aef1-f34930938e69",
+          "physical_cards": [
+            {
+              "card_id": "26a9facf-4437-45c5-ab42-fc43c3f21d90"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "8516e359-11e7-484f-829f-7df005048a54",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "8143810d-6296-41b7-b717-7d554a19367e",
+          "physical_cards": [
+            {
+              "card_id": "4db8b27d-d4e1-4501-a12a-6d3a1721872d"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "0b2bc812-ca71-4216-8fe4-0a7965260e8e",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "d83de99a-a5e1-40b5-beaa-eb3fa96edd0d",
+          "physical_cards": [
+            {
+              "card_id": "ba68e7b0-8b90-4771-8e52-2f653986b54f"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "96d48f23-36d7-450b-8ea8-c03cc5ddb3a1",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "21efad3b-f116-49d5-ab61-7327b7653bc6",
+          "physical_cards": [
+            {
+              "card_id": "565c692a-37f4-4c59-bf96-24dfb2b0716d"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "1b7c48f4-c470-4ef1-8e6e-c678bf482a15",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "929d9a4c-c8b7-498c-b208-9f4c2bfeb7bf",
+          "physical_cards": [
+            {
+              "card_id": "30ef2544-3067-4ebf-ba84-f935fbc912d0"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "11d77bda-c2e1-4d3c-865d-9465a03a251b",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "a60b1952-eb7b-44d2-9a4c-7be7bdfd0a3c",
+          "physical_cards": [
+            {
+              "card_id": "b997438c-72f3-4d83-aafd-cf4d4e7abda8"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "2be4498e-56d1-4bd9-9d27-5564364054b9",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "845ae9d6-7971-4953-a6a3-d54b651d5b8f",
+          "physical_cards": [
+            {
+              "card_id": "312d766d-8e02-4450-9b41-2b9a591e6518"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "01d37ffc-30a4-44bf-9dd4-39d8df30c458",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "fff44872-fd88-4917-bbd5-70e4b10c0ef4",
+          "physical_cards": [
+            {
+              "card_id": "4f58feab-c2af-4ba8-8707-e1cf83d86b2b"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "4ad06b17-16fa-4823-9d63-1c6777252509",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "571145f8-b7a9-4433-a39e-eff348e7fee2",
+          "physical_cards": [
+            {
+              "card_id": "01258f36-3da4-4134-b207-ec2b935b58b3"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "a5e546da-4e1f-4ffa-94da-29e7855ad239",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "1e87c5cb-2f1a-47a6-9caf-b3868dfcd546",
+          "physical_cards": [
+            {
+              "card_id": "e0749a8e-fa3b-48f5-ad33-c8d96e6f42a7"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "4930ffed-8abe-48e4-9355-5f219977a301",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "0607fb1c-fdf4-49b4-a7d3-b2d9cd5366be",
+          "physical_cards": [
+            {
+              "card_id": "1e28dc4e-854d-4053-8260-09d0b7f82315"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "e841c878-c7d4-4ef1-afe7-aa1e530c02a0",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "eeaefa2f-ea59-4d8e-9dbd-db396a8ecabd",
+          "physical_cards": [
+            {
+              "card_id": "c45db994-fd31-485d-95a5-162790fcf827"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "25cc16c0-72af-4b04-8a50-2eb54d555eec",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "87091496-1e2a-48c2-b732-ce13d6508687",
+          "physical_cards": [
+            {
+              "card_id": "d7bb4409-3f52-4328-bb9a-38a5b284c711"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "6c87912e-78ca-481d-a627-01e1ec2171fe",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "58c813ac-d9c6-47bf-a6dd-5844e8717515",
+          "physical_cards": [
+            {
+              "card_id": "bce6baeb-a366-4e60-9954-10c91160a1f6"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "83d20835-829e-4578-bdb6-7437ea4a3743",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "33e19dd7-ab97-4af0-ab27-79f8b92ce9f3",
+          "physical_cards": [
+            {
+              "card_id": "81e8dab2-fa48-41ba-8c56-3ca8911fc268"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "2064ddac-1a3b-4697-9f1e-13f7538cb2b5",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "18b7c3bb-b684-45d0-9d67-45137d6e1b32",
+          "physical_cards": [
+            {
+              "card_id": "8be6b1e4-2824-45b0-a01b-3b5f70c93d30"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "2d30975c-db39-4c37-a27a-07c8a2bcfb42",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "8aa1a3ee-09af-4397-ad72-56aadd74be4f",
+          "physical_cards": [
+            {
+              "card_id": "13be0f68-4482-4953-89cb-460f71d30727"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "bc7c9562-70d0-47bc-b0bd-5c5ce997e2ab",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "36bc22fb-d330-4d62-978b-e35ef26ebeac",
+          "physical_cards": [
+            {
+              "card_id": "0f49d7fd-e82f-49dc-a1d9-cc4e2017be71"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "1ffaa835-6e25-4868-90a9-ce85c554e09a",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "112b42fa-d01f-4db9-8363-b9385711fc2f",
+          "physical_cards": [
+            {
+              "card_id": "437193ed-c819-4ff6-9098-f2554029be63"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "5f6a5466-0968-479f-b387-f41eed7bf4bf",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "d1d35b58-5e5d-41bd-ac19-a9d83fcc5d27",
+          "physical_cards": [
+            {
+              "card_id": "4b5831c9-def6-46bb-bcb9-42f22a252a7c"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "7142e0e6-b9c9-4d92-95fa-6f369cd77fe2",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "44e02e40-5229-429a-89c6-73bd40c04b16",
+          "physical_cards": [
+            {
+              "card_id": "539a96d3-1606-45c8-8995-34caa3ed5153"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "e4e83fca-3ac7-4f71-aace-1f13a2a8b30c",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "65ff16ac-dae4-4b49-be9e-5ec12dbcaeb1",
+          "physical_cards": [
+            {
+              "card_id": "88cde398-872e-4b23-b0fd-770551445e36"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "b3dff11d-dcfe-40b6-bc25-3e0f041ef776",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "3b7b2d91-9e48-4085-bf36-8a67422b21ef",
+          "physical_cards": [
+            {
+              "card_id": "190d2aa4-6e30-49dd-a117-afd3ceadd31b"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "8b34204c-9f05-4987-9e56-4c84ea99cb14",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "bf539e48-784e-461e-9e4c-dbf8dd59d8ce",
+          "physical_cards": [
+            {
+              "card_id": "c103fe30-6b69-4c7b-9fc3-07b67931d1ed"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "995dfcac-0f83-4956-835b-78b89c45f8d8",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "30b02f0a-858f-40b2-af6d-9e401f13e1a2",
+          "physical_cards": [
+            {
+              "card_id": "298163c3-da18-4491-8afe-32772d9f59cc"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "3cb21583-7dba-4aa8-91e9-8e8bff0f5bf1",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "e5011005-83a8-4cda-a216-decf3d2d4368",
+          "physical_cards": [
+            {
+              "card_id": "1abe55e7-427e-4dd1-b0eb-d53d50e76504"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "31ef9bbc-d92e-4909-a0f2-b7854977fd9b",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "7ac22603-2c39-4cf8-a042-a7ebbb0009c6",
+          "physical_cards": [
+            {
+              "card_id": "f7500e66-8e48-4cf8-8078-d52d3b9fdf90"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "6f0d6791-a11d-47a9-bf99-5163f4a42e2d",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "6fc58980-33f9-47a3-8714-6489cc48ba1e",
+          "physical_cards": [
+            {
+              "card_id": "cb2b951e-ba13-4c3e-8608-2068e08aca2e"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "ba84d494-7ba2-4ad8-8d4f-4bbd9c0892dc",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "9547e278-b959-4cd2-a255-5922173213aa",
+          "physical_cards": [
+            {
+              "card_id": "33831d3c-b8a4-418b-82ab-36b5d77509cc"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "097c634a-73f1-4f50-a0c3-0b49cbca4500",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "73640a23-9eff-4d5a-be12-584719a15ecd",
+          "physical_cards": [
+            {
+              "card_id": "fd5ed414-0ad3-40c0-bdc2-6199d148c97e"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "6d9a1dbb-7ee8-4a09-a63e-7a151c89f316",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "a9a1a579-6800-44fb-8efe-9611514627a9",
+          "physical_cards": [
+            {
+              "card_id": "6f14fdc9-d602-443f-a3ea-54f0e0745908"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "6f118a1d-050f-450a-8fc4-6530d62221fe",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "826a67ee-76ac-4045-81db-37741ac79fc6",
+          "physical_cards": [
+            {
+              "card_id": "c643840e-f299-4193-8f65-2ffa78886c9a"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "020deea7-ada6-45da-a044-d727cde23306",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "edd85e46-c46c-4244-913b-b5b207223867",
+          "physical_cards": [
+            {
+              "card_id": "d037a960-f118-41d9-aef7-d44c98f8c17a"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "c5ef57af-cfab-4a1b-91f7-3e65349eebc0",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "95b1a0a3-a7f9-4e8d-a7ea-fe0231383d94",
+          "physical_cards": [
+            {
+              "card_id": "83e33c84-4939-43be-b0a4-cd32722e2f8d"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "8b7d85be-6d27-4bf1-a55d-e73b8728ca86",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "674b471e-e6d4-4a99-b97d-2a7062754531",
+          "physical_cards": [
+            {
+              "card_id": "2e123e13-f736-4b1b-808c-86ab4a3ddbaa"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "4a0636b1-9cfa-4ca4-af7b-1d88384e10f2",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "1a8f97c9-f0c3-4942-9c0c-fba54d4da5ad",
+          "physical_cards": [
+            {
+              "card_id": "02b1e299-78c3-4e43-83f4-60d93e423641"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "2cbdab05-4b2d-4162-b2e8-dff5812d2e44",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "76fa57de-c43f-4ac8-ab97-4d1df290cbda",
+          "physical_cards": [
+            {
+              "card_id": "e407f2ab-db48-4b58-ba4c-940ee20b7304"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "85d0f62c-173f-4372-b58d-e78b60df74bc",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "2f333661-8bd1-4e63-a6c4-5e73366d0563",
+          "physical_cards": [
+            {
+              "card_id": "d45023aa-5634-4b5c-b15a-a5e801e9110d"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "f88c6d89-4d60-4094-bfe3-bc2732b4688c",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "a055bd9b-934d-445e-927b-54ad9e779970",
+          "physical_cards": [
+            {
+              "card_id": "0677043a-dd6c-4ae0-b563-efbcd63e8641"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "de27fb98-62c7-497f-9761-ca8dabe07dad",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "c9b2fb66-e05f-4ceb-bb1b-9b23ca5083d8",
+          "physical_cards": [
+            {
+              "card_id": "d9bca066-16f9-445b-8029-a16ab849028a"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "f79ce3dc-8901-4aa0-942d-05931c59d83c",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "e817d4bb-0991-4909-8920-9d7725c9659d",
+          "physical_cards": [
+            {
+              "card_id": "45c2c50b-1b2c-40d6-8d5e-ea09f4e72bf1"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "8caca43d-91fb-4689-940d-1892700bba4d",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "c93c5ab0-2e46-4105-88d2-d79814b9ddbb",
+          "physical_cards": [
+            {
+              "card_id": "775f54a1-37b3-4f63-be5b-68f1845ea4b4"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "63d981a3-a717-494c-a278-10cacdbaa3e2",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "e02ca454-97d5-47e9-8163-a2eabb1b0ddc",
+          "physical_cards": [
+            {
+              "card_id": "f4a244b0-8613-4a6e-97d2-551221d90f8c"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "1b74ce29-f5e4-432f-a93c-178525cde605",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "06287bf6-60a4-4198-a10b-9b236f82d8ff",
+          "physical_cards": [
+            {
+              "card_id": "68f197cd-2577-4a6d-9b52-f25b1e8a66d1"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "5557ecda-167f-41b4-a290-772d710270ab",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "ea669845-e84f-4ae8-89c5-775995118baa",
+          "physical_cards": [
+            {
+              "card_id": "fbce03c3-9d9b-44da-8321-349ac1584da0"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "399e9384-620d-428d-b897-9a2f5d1fa0c7",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "17fc5ce4-4bec-4120-9312-9c731745697d",
+          "physical_cards": [
+            {
+              "card_id": "a2672baf-9dfa-471e-a980-4259a9c9eb6f"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "7e1a5c62-e74c-453c-a62b-01b0b3998cbc",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "19058e1d-5fca-46dd-9385-98d2f4cf578f",
+          "physical_cards": [
+            {
+              "card_id": "3a229d5d-a89a-48e7-b271-bde6bf8dab61"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "63426a33-7faf-4ec1-b2d0-f3716f5f8971",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "9c2d0edf-3b10-4db1-9e74-bb3d0755a9d0",
+          "physical_cards": [
+            {
+              "card_id": "4d14fe62-25b8-407b-871e-b27d43aaeb2c"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "1b30f772-0745-4d9f-91a1-6b56e3e91a3a",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "b038232b-63bc-4ddd-a09b-b3c560ce803b",
+          "physical_cards": [
+            {
+              "card_id": "357542ca-3997-419d-8032-106ccdf446dc"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "129201b6-87b8-404a-99f6-54d0c472ca5b",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "7f9ab7d7-addd-47d2-ac5b-e753a7111822",
+          "physical_cards": [
+            {
+              "card_id": "9506a369-1b95-4848-be14-de45302dd857"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "2200e616-9922-4a35-a31b-57cebe6a89ec",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "8d6114fb-9494-4b66-b029-fe544825bd48",
+          "physical_cards": [
+            {
+              "card_id": "f8c1fdee-ecdd-4b0a-b04a-4e77685b6b33"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "2534d70c-d97a-4739-8c55-4dca7c36ea84",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "73c2cb62-cd41-4ad1-b4f4-4c7b705d12d1",
+          "physical_cards": [
+            {
+              "card_id": "c43cac86-b4c0-419b-abf6-a65190e8f61f"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "9ad3a9c1-b394-4bf6-9503-8407a05cf734",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "e8fe8129-6573-48f1-ab72-fe15a4227c47",
+          "physical_cards": [
+            {
+              "card_id": "c0a4688e-bdb4-4db6-a143-317afbce5e75"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "389fc093-38b2-4493-ae71-5bc907765de2",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "8398bd85-832e-43d9-84d4-5690d0105884",
+          "physical_cards": [
+            {
+              "card_id": "899e1f50-9776-49c7-bfc5-19d1b32e6918"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "85cce9d5-354c-416c-965e-cc4cb922bbce",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "71f63ecb-539c-46cb-9b8f-50198862ed71",
+          "physical_cards": [
+            {
+              "card_id": "0317fd52-7fa5-4e94-a35c-5b3c2ccc7160"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "a5116c2e-27ac-412b-8bcf-89af8abdaa60",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "6deb6995-c090-46c3-a245-aa30791e012f",
+          "physical_cards": [
+            {
+              "card_id": "f1eabddc-3862-498d-815e-d8ff6d3da951"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "579add60-c959-4889-a7a9-9804bde11617",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "237b1b3a-79d1-4a35-8cae-28a76d517c90",
+          "physical_cards": [
+            {
+              "card_id": "de6e7477-7c8a-4f84-b5e8-1d4cf8a13ebe"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "748d6c6c-d2ca-4e90-82a4-01887c02add5",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "26c45ab4-fb4f-4dda-9ad6-0fdf241eb79d",
+          "physical_cards": [
+            {
+              "card_id": "636353c0-b3db-4fda-b78a-ce84e531c223"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "bbc8e0c3-be6f-448a-b8df-abe246d18527",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "5458d227-8209-4158-aa4b-1673f4ff78ce",
+          "physical_cards": [
+            {
+              "card_id": "d98a2d9a-260a-45cd-84d3-0003d3c0fc48"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "6a9343e3-087f-4da9-863c-d534111b62a0",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "e4c49612-60cf-4627-8f2c-c56f352e94e1",
+          "physical_cards": [
+            {
+              "card_id": "3bf0606c-a798-49ac-9586-ae1ed84c76e2"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "d209656e-6afd-4e9d-8a09-d2d5637928d9",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "90dd1630-508c-4c66-ada7-3f6a5fffb8bd",
+          "physical_cards": [
+            {
+              "card_id": "15891fa0-d036-4dce-893f-afc12dcb93de"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "9b496b27-99fe-4e62-8e8a-33f45354c62f",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "2cfc2e6f-5218-49f0-b908-08e71839192b",
+          "physical_cards": [
+            {
+              "card_id": "bc294018-f0cc-4206-94c7-5bdf432ce368"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "1e9982ef-4e27-4570-80bf-c603b68658f8",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "21e3bb31-87ff-4443-9c4b-e80adf8bc9da",
+          "physical_cards": [
+            {
+              "card_id": "f5cf5f66-8dab-411b-919c-73485ffd5fb5"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "3315cf73-db6f-46cd-8f19-4182a4ee6a9d",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "9d63114f-7de1-4deb-a6f3-6f21949a2103",
+          "physical_cards": [
+            {
+              "card_id": "583dd6e9-df4b-439b-ba35-7138cfd0e88a"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "b14bf1e5-34a3-472f-bb8b-b18f9be4a322",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "86aeebf9-bafc-4c7b-94dc-a9e22ce440dd",
+          "physical_cards": [
+            {
+              "card_id": "849daa81-71b5-4ac0-aad0-ba094a2e9d21"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "45cc0e70-fa66-433c-b8e4-6610479c9b27",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "0b19579e-a23c-44e6-942f-02fc1b547385",
+          "physical_cards": [
+            {
+              "card_id": "387dedbc-34c0-4c51-8b24-845681beca59"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "4556a1e0-5760-4d11-b933-bf2be0b04615",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "446aefb1-4479-476e-8258-02e0e449cba6",
+          "physical_cards": [
+            {
+              "card_id": "36c9256b-d697-4e4c-ab22-0e1e58b8a3cf"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "aa3a382f-e13b-4d45-a669-1dea20e014d9",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "3f8f8e34-a83d-4360-ae41-11d28324413e",
+          "physical_cards": [
+            {
+              "card_id": "840864d3-f161-4f69-99f1-be7e32ef1ebd"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "39ce35be-ffa9-489a-9c53-ecc8949255a8",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "8e5cfc21-140f-4e35-85df-ce68a1713dd3",
+          "physical_cards": [
+            {
+              "card_id": "d13f85e0-1113-4351-9de6-421f4fd1d23b"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "cd610fe3-f3a7-4a51-9366-9fa28279efec",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "5ee81927-c2d0-47c0-860f-494ba6939f13",
+          "physical_cards": [
+            {
+              "card_id": "20e367af-1b94-4538-b607-7d40e2817398"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "7bd694ef-8163-454f-ae40-eaf2bbc465e1",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "751a7f39-788c-4c0d-99dc-c91d0acb3224",
+          "physical_cards": [
+            {
+              "card_id": "b20bf319-194f-4750-969d-d0e702f5cc21"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "86fd844d-9c13-436e-a673-2992ac751af6",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "78a43ee8-6497-4c25-a22d-db1863da6f4b",
+          "physical_cards": [
+            {
+              "card_id": "c9424ea2-4202-41f2-be8f-0aecc26bf448"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "2f56f0e3-9ae0-48f4-a935-73bcb556ee9b",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "6d639792-760b-4ac2-acc8-1b209b1c97ca",
+          "physical_cards": [
+            {
+              "card_id": "d6f8aa86-5314-415a-bb1e-3f06c9e401af"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "d75d86d4-ef0c-4d23-9b51-d0597b4fbe37",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "186ef315-abe6-4515-8415-99ba7d1e9033",
+          "physical_cards": [
+            {
+              "card_id": "4b85a506-71e1-45f5-ae12-baacfbb4ddcc"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "24105cb6-b101-468f-baae-e0e820274fce",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "35b95f5e-10c5-4999-9f8f-2511d4b5f00f",
+          "physical_cards": [
+            {
+              "card_id": "52689d99-ed12-4017-b7eb-06a2ebdc47f0"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "6e2df22d-9c06-4f50-9487-cf6a446a6826",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "d54051dc-d9a8-48d7-b413-8df48ffd0501",
+          "physical_cards": [
+            {
+              "card_id": "1bd98bad-d815-4a56-90a8-e90e2df37c5a"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "a15c8742-8d9b-4fb9-a2fe-7c60e780b4d6",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "661da86c-fb71-4769-a036-dcd29b052939",
+          "physical_cards": [
+            {
+              "card_id": "24c163f9-fb99-457c-aa8c-712b3038339b"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "cb7c80be-ff62-4842-bcf7-868ae11b4f86",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "6389e6a3-9bc4-4305-a65a-8fccb9cf468e",
+          "physical_cards": [
+            {
+              "card_id": "23189305-14a8-4cda-bc10-ca0a5d328fee"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "04372a09-5856-46ff-9cd3-fdb00924395e",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "f28f7d1b-c979-4a22-a930-ec2683b71f81",
+          "physical_cards": [
+            {
+              "card_id": "c6e24cdc-3696-4660-9d8c-3c0b793e7ba7"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "6700c5df-fed4-4bd7-a615-a4211c056eb8",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "c15d2696-9537-4c2f-b430-604a3016b03e",
+          "physical_cards": [
+            {
+              "card_id": "ed351da2-8219-410f-99d3-f985fa85d07e"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "772c581d-1f62-4e32-b5e2-9c8e6eb8074f",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "8ac68689-7c9b-439a-855d-0c28cf417c7e",
+          "physical_cards": [
+            {
+              "card_id": "1232b324-4493-4b1e-b938-f7548b02c855"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "c0083b28-b308-4587-85da-1101a40a4011",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "36db84aa-a102-4496-bd0e-f3df17ae6c67",
+          "physical_cards": [
+            {
+              "card_id": "38ba2af8-6b49-440b-af9f-801610866c82"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "a02ddc3a-8a1f-47bd-a1ff-4ac3759e4c3e",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "8790add4-f39c-4b5b-b3bf-4689a344fea3",
+          "physical_cards": [
+            {
+              "card_id": "a9749fcd-6941-4b25-90ff-9718d6955e9a"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "b0aab78a-e4d2-45fa-b4e0-839f43849485",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "8f44b4bc-14fb-486c-8d6a-252b50683107",
+          "physical_cards": [
+            {
+              "card_id": "9454bbcd-8fe0-4af3-9020-8934fe6dc27b"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "27959c18-18cb-484b-a3b2-0c516f11375c",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "619fc37c-fd34-499a-b8e9-19d06873dcfb",
+          "physical_cards": [
+            {
+              "card_id": "c08fd7ec-fe15-4dad-9186-9b17d443411d"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "2dd07269-c6bc-43d1-8b8d-11d281c3939a",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "1a3637ee-ad0e-475c-809c-e3c9dd5a81de",
+          "physical_cards": [
+            {
+              "card_id": "53d8d9d1-ca3c-4847-811f-0fce18ff7db2"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "be7d840d-0fd3-4108-a5c4-ab4dc18180aa",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "41ffc11a-7da8-4bae-80e5-221deca2218c",
+          "physical_cards": [
+            {
+              "card_id": "de7e8560-6ddb-4df3-94af-56d47e2333c5"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "3ce91768-edac-4984-bb63-eb34dad36d8b",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "6cfc6dbb-7ba6-4fe7-b27a-c2d6342fbd70",
+          "physical_cards": [
+            {
+              "card_id": "e909e29f-431c-453a-b843-2306e1dc8f90"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "dae84ae0-551d-4245-8ad5-8326c9e97707",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "98964af0-e8da-4472-9d1e-8452d5c57e4e",
+          "physical_cards": [
+            {
+              "card_id": "6c76d460-b025-4e4c-8c38-22341fd9cc19"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "9bdedfe9-e25a-448e-997c-bfe67619927f",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "111d2749-6620-4ad4-b04a-aa3b7f65d51f",
+          "physical_cards": [
+            {
+              "card_id": "21a00bc3-afc9-4693-a812-f05eae243d4a"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "5419f063-8e2f-46b6-ba8a-7f6bec646699",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "cfd7663b-30c1-4b85-81e8-26b708a00942",
+          "physical_cards": [
+            {
+              "card_id": "e2dcd194-e40b-4398-ad21-43a253d0d180"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "67109f8c-7f25-4dce-a47c-d573c4c14988",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "e8782745-ca93-4c92-b1ef-426470af08da",
+          "physical_cards": [
+            {
+              "card_id": "6d48072b-fa57-4ff2-8448-aee6df2efc9d"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "357c0640-2b61-4b64-a19c-62d23a98fb72",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "f6b40090-2972-4080-996a-efb2b8aa87f4",
+          "physical_cards": [
+            {
+              "card_id": "e26e087a-6624-4477-86f9-2c26d49c8339"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "6142b84b-fe56-40f9-9ff7-21caf37ec58e",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "13a3e47f-34c0-43cb-a62a-a594b8c2aa5c",
+          "physical_cards": [
+            {
+              "card_id": "19542efa-c029-441e-ad93-0c62bde108cf"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "4238ecfc-ee48-4abb-87cb-446a9916faa6",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "922502ce-ceb8-4517-bfe9-80d06a0ef487",
+          "physical_cards": [
+            {
+              "card_id": "81d0aa9e-4ac7-4369-8397-5b22132278e0"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "5e61c2e6-54e1-471b-b014-4dfec9f96271",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "f949a0e6-3674-4ae4-b237-7677c825689e",
+          "physical_cards": [
+            {
+              "card_id": "7255aaf6-bf10-48c3-8a1a-52b9b2897daa"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "35787af6-bc1a-4088-9247-43306c6d1490",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "325ca2eb-e2e7-4578-b126-4d1d81c54f7a",
+          "physical_cards": [
+            {
+              "card_id": "45676d34-2d07-40e3-a1b4-b4c48e65f953"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "b70a3fe3-22e6-41f5-b4a3-a9a999e9d21d",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "d499e85c-dce2-4edf-9f4a-c96c4481c009",
+          "physical_cards": [
+            {
+              "card_id": "fd65ea7f-2b6b-4094-bd88-e1e80e14bd56"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "f4c896bb-28ba-4b4d-9c92-ff9a01502473",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "fc7d3698-c042-40e3-89f0-56d2035a65d3",
+          "physical_cards": [
+            {
+              "card_id": "fb6a92c6-4e3c-4152-8a98-6c30fe89f203"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "935f0025-2cac-4397-9cd2-f05d95e36e8a",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "16b21cc4-4cd6-4427-91bb-e7818dc5a5fe",
+          "physical_cards": [
+            {
+              "card_id": "cbd85160-57cf-494f-aaaa-5b6824992692"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "18550724-a049-4904-872a-dd8b04dd3f5f",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "ed635b33-aff3-44ac-9fbb-17ada9cbe1e9",
+          "physical_cards": [
+            {
+              "card_id": "31a33352-2216-4cb0-9b9d-8647bf823a2d"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "e1202601-3d69-4a1d-935d-c754bff3a050",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "59951911-9ceb-42c8-8300-aa99766093cf",
+          "physical_cards": [
+            {
+              "card_id": "5e5041ca-535d-49b1-882e-feabbda8e68e"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "adbc41a9-ab30-414b-a04b-582ec674f02d",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "687b920a-9138-4592-aae4-787690e6b8ca",
+          "physical_cards": [
+            {
+              "card_id": "67234f5a-71cb-4fe9-9624-d1206d84aa09"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "ff5b1f1d-3769-4957-8ee1-b075e171c884",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "5261169b-5f0c-4b1f-869b-b5fe6fac94d0",
+          "physical_cards": [
+            {
+              "card_id": "8ff7435c-bd49-40fd-96f2-d23ef7ad33db"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "9dfb82d4-0ab6-4345-8b4f-63546ea38781",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "90939af8-1420-44f7-9a28-6379fc0b3347",
+          "physical_cards": [
+            {
+              "card_id": "8b4bd042-68d8-4e29-a77b-66f226c06cd7"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "5ffcaf18-8192-45eb-9570-bf757f68db25",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "3ea7b86f-ba1a-43d4-bd37-816a9203ef9a",
+          "physical_cards": [
+            {
+              "card_id": "be4e657d-ba8d-4060-97f9-0f314eb9dde1"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "80b7fe77-523a-44d4-9cd5-dccec62520f4",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "89b00608-894a-4197-9a37-c6aa4305c574",
+          "physical_cards": [
+            {
+              "card_id": "20d28f1e-bb9e-42ad-848e-03fd998dfe23"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "e60b51d1-9011-4718-8e13-4e7462c9cba6",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "2172a98b-fa0a-44fe-b2a2-2663da4a33c4",
+          "physical_cards": [
+            {
+              "card_id": "1f49dee4-a599-4066-9c81-8cf7ced8da4f"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "50d54f4c-b255-42c4-b46b-a7930b89dc57",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "36232ffa-a00d-4bae-8b85-5a44dd254aed",
+          "physical_cards": [
+            {
+              "card_id": "3cff027e-6248-4bad-adee-bb5121874a3a"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "7289841a-24c4-4130-ab05-606133d0b06a",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "f531a7cd-0482-4c0c-99cb-f190feca7b17",
+          "physical_cards": [
+            {
+              "card_id": "da471f07-429a-4794-9280-46ef0a5eb95f"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "16de7437-b977-4afc-bea6-05e5b56419bf",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "0f37bd41-4b04-4ac2-a430-e8f728f30d38",
+          "physical_cards": [
+            {
+              "card_id": "fef9cba2-f959-4379-a5e0-ec0cd27cdd15"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "5a3901af-587c-4cd3-99ac-603d90bc52bd",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "67102534-0078-45f5-b335-ff1d093162e5",
+          "physical_cards": [
+            {
+              "card_id": "9ca286e0-6b7c-42f2-a6ac-1bd78e06e429"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "f2ea7ff4-bf01-4f0a-b6f8-b1cc9ad98593",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "d75bd736-d4d3-42e2-9a95-cc9acf7458b0",
+          "physical_cards": [
+            {
+              "card_id": "6cc7f09f-45dc-4f97-8a49-aa359d459ee9"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "0198e1df-02fb-4122-8b9e-d9dbe1f4ebb3",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "9cc2f367-d70d-4fc5-9372-b7a34304c6c4",
+          "physical_cards": [
+            {
+              "card_id": "5deb17e1-8e92-4523-8f94-76b9fa9b4bd1"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "e2085bcc-a4c1-47f5-a6e2-cd855c182e59",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "9e82a6dc-3c33-4b51-b76f-c3accd86d13b",
+          "physical_cards": [
+            {
+              "card_id": "f746e0ab-422a-4544-926e-0d4ae048bcc0"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "1e068b88-b8b3-40c3-99fa-8964059b765c",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "7bc1dc67-0e3b-4533-92fe-bdced4d5c704",
+          "physical_cards": [
+            {
+              "card_id": "522cbf8b-14fa-4104-a8a2-dfbc07b78050"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "be4f09e2-9283-4efc-ae72-a7515af521d6",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "c0ae4873-4131-4967-bd78-12668922d146",
+          "physical_cards": [
+            {
+              "card_id": "5ef708a8-560b-4b9f-ba59-5a5859a8b680"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "154e93a1-3a6b-4989-83fe-04320793f082",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "36b320f2-b009-4879-ae1b-806f1a54b264",
+          "physical_cards": [
+            {
+              "card_id": "80969055-9e23-42cf-804e-0d7a488e7757"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "f5a731ed-19f7-48d6-9053-6c4d480d1a0c",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "d5ff983f-2bbe-45f4-88ca-c7eae55b8750",
+          "physical_cards": [
+            {
+              "card_id": "0349d2ab-4369-4ac8-b1d9-2770dcce477c"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "a95a2f50-a532-47f1-ba2d-0a486583fa25",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "a460e4b7-9402-4b10-8f50-ac120188cc7a",
+          "physical_cards": [
+            {
+              "card_id": "015c32f6-f2c1-4120-aa46-45e56d0c55da"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "c4ab82a4-dd5b-41c3-85c5-c017d22441fe",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "e9f3fc7b-aac8-419d-873a-5c93fa91e85f",
+          "physical_cards": [
+            {
+              "card_id": "82f8f462-0b81-412a-b0c0-537508f31468"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "a07bb037-9993-435b-8af4-03980bf34f73",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "0d568db2-b4f7-4d2a-9bc5-f9ee681fe385",
+          "physical_cards": [
+            {
+              "card_id": "6bb735ca-a8ce-4b78-aba6-26f54f304171"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "8cd408e8-84d6-4f60-bc7d-fc742efbf7e7",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "a7dc8c9c-e81d-48e5-9967-1ce95849b3f0",
+          "physical_cards": [
+            {
+              "card_id": "2c0e4b67-12f4-4b00-835c-e3b56c87e3d0"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "f231979e-daa7-4f16-b5f9-68f85b7c7150",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "d500bb42-beef-453b-a5a2-b8c0f1f107bb",
+          "physical_cards": [
+            {
+              "card_id": "c148b39a-08b2-4c9b-a27a-c3cddc1f1e47"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "fcb75149-677b-498c-9699-1979c3400e68",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "a6947e5f-8fc2-410c-9256-9e72d6d51987",
+          "physical_cards": [
+            {
+              "card_id": "bd54a9b7-2e79-46a9-87e0-f0a8f40e85dd"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "4ec116ad-77a6-422e-b880-0e6329b27723",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "618f9fe7-e5b5-4cf9-aa0d-0cf4443a9d40",
+          "physical_cards": [
+            {
+              "card_id": "92f147b0-3d10-425d-ac7b-01392ddb9f29"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "dd35f4b9-a133-422f-8222-36001ee1cbc4",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "957ba927-f9d8-4c0c-9f02-9b1bb2e5ff4a",
+          "physical_cards": [
+            {
+              "card_id": "a4be1e4d-b52f-401c-a5a3-9ecf3e760c5a"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "3021a387-53e6-4278-b5fd-f735baa356c1",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "6b682412-bef2-47ff-a461-b4e2184e2d02",
+          "physical_cards": [
+            {
+              "card_id": "dff871e8-f386-4397-ac4a-0e8db134e2cd"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "ade60e2e-223f-4da1-939e-6a2d61f49e8c",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "10db4fa6-a4b2-4539-bf18-e527980d9ede",
+          "physical_cards": [
+            {
+              "card_id": "544aca72-6e7b-42b4-9c39-d0cfcfc6dd4e"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "8af901aa-9587-4f47-878d-b6fae0943b3f",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "2e1c6aac-4683-43a1-94ac-8e8e922d1bbb",
+          "physical_cards": [
+            {
+              "card_id": "6e1f9880-135d-440d-babe-71fa868cb0d3"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "bd2b6f6e-549e-42ad-8dc0-38662066fb64",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "29b7f3e1-26f7-4dc2-98f1-c1d818e500c8",
+          "physical_cards": [
+            {
+              "card_id": "f58b0cac-67c0-4ec7-9a24-092242059cd1"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "492ae498-25d2-4695-96fc-558c167ba006",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "a5a075c9-fb80-471a-ab97-b5e6f6c4fa5c",
+          "physical_cards": [
+            {
+              "card_id": "6aaba4b6-3f77-4e75-9e2d-726b800e21d0"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "6368a434-4138-41ca-8388-5d9573526256",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "f7b86087-118e-4a5a-a2fb-c24ac1376e5a",
+          "physical_cards": [
+            {
+              "card_id": "44bd0b76-d0f2-4c1b-8260-f1878e14a7b0"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "ba76a3d9-6055-4dee-8560-37a4048fc50f",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "d9d4ecfb-cc6f-4c6a-8f75-418ebb136b15",
+          "physical_cards": [
+            {
+              "card_id": "c1187cbf-7e26-42e0-9188-0d6ed7e97430"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "56644bfd-8911-40c9-93e0-10c132060969",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "c2d8da9f-ad92-4309-9977-898454aa3a59",
+          "physical_cards": [
+            {
+              "card_id": "b0176926-a584-4ee7-a44d-b24adc770860"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "83568e24-e68c-4770-b13b-408c0b3893ab",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "20e87490-ce0c-4abf-9feb-40a760075285",
+          "physical_cards": [
+            {
+              "card_id": "fad9b40f-43be-4042-8f22-44ba7156ed40"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    },
+    {
+      "user_id": "ca367f1a-0534-4cda-ba36-ec846cc3ce03",
+      "deposit_accounts": [],
+      "savings_accounts": [],
+      "debit_card_accounts": [],
+      "credit_card_accounts": [
+        {
+          "account_id": "8dee559a-03cd-486b-8615-0cd8f7c8d2c6",
+          "physical_cards": [
+            {
+              "card_id": "2e4356f9-c122-4a54-800f-ceac5240dfbb"
+            }
+          ],
+          "virtual_cards": [],
+          "top_up_operations": [],
+          "purchase_operations": [],
+          "transfer_operations": [],
+          "cash_withdrawal_operations": []
+        }
+      ]
+    }
+  ]
+}
