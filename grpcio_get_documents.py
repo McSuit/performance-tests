@@ -37,7 +37,7 @@ create_user_request = CreateUserRequest(
     phone_number=fake.phone_number()
 )
 create_user_response: CreateUserResponse = users_gateway_service.CreateUser(create_user_request)
-print('Create user response:', create_user_response)
+print('Create locust response:', create_user_response)
 
 # 2. Открытие сберегательного счёта
 open_savings_account_request = OpenSavingsAccountRequest(user_id=create_user_response.user.id)

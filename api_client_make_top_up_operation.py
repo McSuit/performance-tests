@@ -8,7 +8,7 @@ operations_gateway_client = build_operations_gateway_http_client()
 
 # Создаем пользователя
 create_user_response = users_gateway_client.create_user()
-print("Create user response:", create_user_response, "\n")
+print("Create locust response:", create_user_response, "\n")
 
 # Открываем дебетовый счет
 open_debit_card_account_response = accounts_gateway_client.open_debit_card_account(

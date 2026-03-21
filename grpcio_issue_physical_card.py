@@ -38,7 +38,7 @@ create_user_request = CreateUserRequest(
 create_user_response: CreateUserResponse = users_gateway_service.CreateUser(create_user_request)
 
 # Логируем ответ
-print('Create user response:', create_user_response)
+print('Create locust response:', create_user_response)
 
 # 2. Открытие кредитного счёта на имя созданного пользователя
 open_credit_card_account_request = OpenCreditCardAccountRequest(

@@ -3,7 +3,7 @@ from locust import task
 from clients.http.gateway.accounts.schema import OpenSavingsAccountResponseSchema
 from clients.http.gateway.locust import GatewayHTTPSequentialTaskSet
 from clients.http.gateway.users.schema import CreateUserResponseSchema
-from tools.user.user import LocustBaseUser
+from tools.locust.user import LocustBaseUser
 
 
 class GetDocumentsSequentialTaskSet(GatewayHTTPSequentialTaskSet):

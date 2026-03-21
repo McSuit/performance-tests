@@ -1,12 +1,12 @@
 import xml.etree.ElementTree as ET
 
 xml_data = '''
-<user>
+<locust>
     <id>1</id>
     <first_name>John</first_name>
     <last_name>Doe</last_name>
     <email>john.doe@example.com</email>
-</user>
+</locust>
 '''
 
 root = ET.fromstring(xml_data)

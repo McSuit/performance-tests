@@ -23,11 +23,11 @@ create_user_request = CreateUserRequest(
 
 # Отправляем запрос и получаем ответ
 create_user_response: CreateUserResponse = users_gateway_service.CreateUser(create_user_request)
-print('Create user response:', create_user_response)
+print('Create locust response:', create_user_response)
 
 # Формируем запрос на получение пользователя по ID, полученному из предыдущего ответа
 get_user_request = GetUserRequest(id=create_user_response.user.id)
 
 # Отправляем запрос и получаем ответ
 get_user_response: GetUserResponse = users_gateway_service.GetUser(get_user_request)
-print('Get user response:', get_user_response)
+print('Get locust response:', get_user_response)

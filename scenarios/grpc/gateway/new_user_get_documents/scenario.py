@@ -3,7 +3,7 @@ from locust import task
 from clients.grpc.gateway.locust import GatewayGRPCSequentialTaskSet
 from contracts.services.gateway.accounts.rpc_open_savings_account_pb2 import OpenSavingsAccountResponse
 from contracts.services.gateway.users.rpc_create_user_pb2 import CreateUserResponse
-from tools.user.user import LocustBaseUser
+from tools.locust.user import LocustBaseUser
 
 
 class GetDocumentsSequentialTaskSet(GatewayGRPCSequentialTaskSet):
