@@ -2,7 +2,7 @@ from locust import task
 from clients.http.gateway.locust import GatewayHTTPTaskSet
 from clients.http.gateway.accounts.schema import OpenDepositAccountResponseSchema
 from clients.http.gateway.users.schema import CreateUserResponseSchema
-from tools.locust.user import LocustBaseUser
+from tools.user.user import LocustBaseUser
 
 
 class GetAccountsTaskSet(GatewayHTTPTaskSet):

@@ -26,7 +26,7 @@ create_user_request = CreateUserRequest(
 
 # Отправляем запрос на создание пользователя
 create_user_response: CreateUserResponse = users_gateway_service.CreateUser(create_user_request)
-print('Create locust response:', create_user_response)
+print('Create user response:', create_user_response)
 
 # Формируем запрос на получение пользователя по ID, полученному из предыдущего ответа
 open_debit_card_account_request = OpenDebitCardAccountRequest(user_id=create_user_response.user.id)

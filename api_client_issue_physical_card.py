@@ -8,7 +8,7 @@ accounts_gateway_client = build_accounts_gateway_http_client()
 
 # Создаем пользователя
 create_user_response = users_gateway_client.create_user()
-print('Create locust response:', create_user_response)
+print('Create user response:', create_user_response)
 
 # Открываем дебетовый счет
 open_debit_card_account_response = accounts_gateway_client.open_debit_card_account(

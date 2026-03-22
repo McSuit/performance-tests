@@ -3,7 +3,7 @@ import httpx  # Импортируем HTTPX
 
 # Шаг 1. Создание пользователя
 create_user_payload = {
-    "email": f"locust.{time.time()}@example.com",  # Уникальный email с timestamp
+    "email": f"user.{time.time()}@example.com",  # Уникальный email с timestamp
     "lastName": "string",
     "firstName": "string",
     "middleName": "string",
@@ -14,7 +14,7 @@ create_user_response_data = create_user_response.json()
 
 # Шаг 2. Открытие дебетового счёта
 open_debit_card_account_payload = {
-    "userId": create_user_response_data["locust"]["id"]
+    "userId": create_user_response_data["user"]["id"]
 }
 open_debit_card_account_response = httpx.post(
     "http://localhost:8003/api/v1/accounts/open-debit-card-account",
@@ -24,7 +24,7 @@ open_debit_card_account_response_data = open_debit_card_account_response.json()
 
 # Шаг 3. Выпуск виртуальной карты
 issue_virtual_card_payload = {
-    "userId": create_user_response_data["locust"]["id"],
+    "userId": create_user_response_data["user"]["id"],
     "accountId": open_debit_card_account_response_data["account"]["id"]
 }
 issue_virtual_card_response = httpx.post(

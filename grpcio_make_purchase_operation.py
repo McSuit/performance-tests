@@ -35,7 +35,7 @@ create_user_request = CreateUserRequest(
     phone_number=fake.phone_number()
 )
 create_user_response: CreateUserResponse = users_gateway_service.CreateUser(create_user_request)
-print('Create locust response:', create_user_response)
+print('Create user response:', create_user_response)
 
 # 2. Открываем кредитный счёт на созданного пользователя
 open_credit_card_account_request = OpenCreditCardAccountRequest(user_id=create_user_response.user.id)

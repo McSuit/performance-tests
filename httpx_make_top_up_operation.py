@@ -3,7 +3,7 @@ import httpx
 
 # Создание нового пользователя
 create_user_payload = {
-    "email": f"locust.{time.time()}@example.com",
+    "email": f"user.{time.time()}@example.com",
     "lastName": "string",
     "firstName": "string",
     "middleName": "string",
@@ -14,7 +14,7 @@ create_user_response_data = create_user_response.json()
 
 # Открытие дебетового счёта
 open_debit_card_account_payload = {
-    "userId": create_user_response_data["locust"]["id"]
+    "userId": create_user_response_data["user"]["id"]
 }
 open_debit_card_account_response = httpx.post(
     "http://localhost:8003/api/v1/accounts/open-debit-card-account",

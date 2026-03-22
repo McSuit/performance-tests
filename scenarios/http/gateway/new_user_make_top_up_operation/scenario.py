@@ -4,7 +4,7 @@ from clients.http.gateway.accounts.schema import OpenDebitCardAccountResponseSch
 from clients.http.gateway.locust import GatewayHTTPSequentialTaskSet
 from clients.http.gateway.operations.schema import MakeTopUpOperationResponseSchema
 from clients.http.gateway.users.schema import CreateUserResponseSchema
-from tools.locust.user import LocustBaseUser
+from tools.user.user import LocustBaseUser
 
 
 # Класс сценария: описывает последовательный флоу нового пользователя

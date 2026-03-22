@@ -4,7 +4,7 @@ from clients.http.gateway.users.schema import CreateUserResponseSchema
 from clients.http.gateway.accounts.schema import OpenDebitCardAccountResponseSchema
 from clients.http.gateway.cards.schema import IssuePhysicalCardResponseSchema
 from clients.http.gateway.locust import GatewayHTTPSequentialTaskSet
-from tools.locust.user import LocustBaseUser
+from tools.user.user import LocustBaseUser
 
 
 class IssuePhysicalCardSequentialTaskSet(GatewayHTTPSequentialTaskSet):
