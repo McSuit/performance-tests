@@ -1,5 +1,5 @@
 from httpx import Response, QueryParams
-from locust.env import Environment  # Импорт окружения Locust
+from locust.env import Environment
 
 from clients.http.client import HTTPClient, HTTPClientExtensions
 from clients.http.gateway.accounts.schema import (
@@ -16,7 +16,7 @@ from clients.http.gateway.accounts.schema import (
 )
 from clients.http.gateway.client import (
     build_gateway_http_client,
-    build_gateway_locust_http_client  # Импорт билдера для нагрузочного тестирования
+    build_gateway_locust_http_client
 )
 from tools.routes import APIRoutes
 

@@ -1,10 +1,10 @@
 from grpc import Channel
-from locust.env import Environment  # Импорт окружения Locust
+from locust.env import Environment
 
 from clients.grpc.client import GRPCClient
 from clients.grpc.gateway.client import (
     build_gateway_grpc_client,
-    build_gateway_locust_grpc_client  # Импорт билдера для нагрузочного тестирования
+    build_gateway_locust_grpc_client
 )
 from contracts.services.gateway.accounts.accounts_gateway_service_pb2_grpc import AccountsGatewayServiceStub
 from contracts.services.gateway.accounts.rpc_get_accounts_pb2 import GetAccountsRequest, GetAccountsResponse

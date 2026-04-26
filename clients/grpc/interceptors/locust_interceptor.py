@@ -27,11 +27,10 @@ class LocustInterceptor(UnaryUnaryClientInterceptor):
         """
         response = None
         exception: RpcError | None = None
-        start_time = time.perf_counter()  # Засекаем время начала запроса
+        start_time = time.perf_counter()
         response_length = 0
 
         try:
-            # Выполняем gRPC вызов и получаем response future
             response = continuation(client_call_details, request)
 
             # Получаем размер ответа, если он уже доступен (для метрик)
@@ -40,7 +39,7 @@ class LocustInterceptor(UnaryUnaryClientInterceptor):
             # В случае ошибки сохраняем исключение для метрик
             exception = error
 
-        # Регистрируем вызов в системе метрик Locust
+
         self.environment.events.request.fire(
             name=client_call_details.method,  # Имя метода (например, "/users.UsersService/CreateUser")
             context=None,  # Можно использовать для передачи кастомных данных
@@ -51,5 +50,4 @@ class LocustInterceptor(UnaryUnaryClientInterceptor):
             response_length=response_length,  # Размер ответа в байтах
         )
 
-        # Возвращаем результат вызова (future-объект)
         return response

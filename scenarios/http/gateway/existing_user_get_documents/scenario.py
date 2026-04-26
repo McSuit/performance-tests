@@ -11,7 +11,6 @@ from tools.user.user import LocustBaseUser
 # Мы используем его, чтобы заранее прогнать сидинг и загрузить пользователей в память.
 @events.init.add_listener
 def init(environment: Environment, **kwargs):
-    # Создаем экземпляр сидинг-сценария
     seeds_scenario = ExistingUserGetDocumentsSeedsScenario()
 
     # Выполняем генерацию данных, если они ещё не созданы

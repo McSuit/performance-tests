@@ -1,9 +1,9 @@
 from httpx import Response
-from locust.env import Environment  # Импорт окружения Locust
+from locust.env import Environment
 from clients.http.client import HTTPClient, HTTPClientExtensions
 from clients.http.gateway.client import (
     build_gateway_http_client,
-    build_gateway_locust_http_client  # Импорт билдера для нагрузочного тестирования
+    build_gateway_locust_http_client
 )
 from clients.http.gateway.users.schema import (
     GetUserResponseSchema,

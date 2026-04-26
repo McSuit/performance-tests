@@ -123,5 +123,4 @@ class Fake:
         return self.faker.random_element(value.values())
 
 
-# Создаем экземпляр класса Fake с использованием Faker
 fake = Fake(faker=Faker())

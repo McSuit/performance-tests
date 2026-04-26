@@ -2,7 +2,7 @@ import logging
 from config import settings
 
 from httpx import Client
-from locust.env import Environment  # Импорт окружения Locust для передачи в хуки
+from locust.env import Environment
 
 from clients.http.event_hooks.locust_event_hook import (
     locust_request_event_hook,  # Хук для отслеживания начала запроса

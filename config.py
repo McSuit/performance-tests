@@ -1,4 +1,4 @@
-import locust.stats  # Модуль Locust, отвечающий за сбор и хранение статистики
+import locust.stats
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 from tools.config.grpc import GRPCClientConfig
@@ -36,5 +36,4 @@ class Settings(BaseSettings):
     gateway_grpc_client: GRPCClientConfig  # Настройки gRPC-клиента
 
 
-# Глобальный объект настроек — его можно импортировать в любом месте проекта
 settings = Settings()
