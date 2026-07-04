@@ -12,3 +12,4 @@ csv_locust_stats_file: "locust_http_gateway_new_user_get_documents_stats.csv"
 json_locust_ratio_file: "locust_http_gateway_new_user_get_documents_ratio.json"
 csv_locust_exceptions_file: "locust_http_gateway_new_user_get_documents_exceptions.csv"
 csv_locust_stats_history_file: "locust_http_gateway_new_user_get_documents_stats_history.csv"
+

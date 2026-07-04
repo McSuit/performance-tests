@@ -13,7 +13,7 @@ from clients.http.gateway.users.schema import (
 from tools.routes import APIRoutes
 
 
-# Старые модели с использованием TypedDict были удалены
+
 
 class UsersGatewayHTTPClient(HTTPClient):
     """
@@ -32,7 +32,7 @@ class UsersGatewayHTTPClient(HTTPClient):
             extensions=HTTPClientExtensions(route=f"{APIRoutes.USERS}/{{user_id}}")
         )
 
-    # Теперь используем pydantic-модель для аннотации
+
     def create_user_api(self, request: CreateUserRequestSchema) -> Response:
         """
         Создание нового пользователя.
@@ -40,19 +40,19 @@ class UsersGatewayHTTPClient(HTTPClient):
         :param request: Pydantic-модель с данными нового пользователя.
         :return: Ответ от сервера (объект httpx.Response).
         """
-        # Сериализуем модель в словарь с использованием alias
+
         return self.post(APIRoutes.USERS, json=request.model_dump(by_alias=True))
 
     def get_user(self, user_id: str) -> GetUserResponseSchema:
         response = self.get_user_api(user_id)
-        # Инициализируем модель через валидацию JSON строки
+
         return GetUserResponseSchema.model_validate_json(response.text)
 
-    # Теперь используем pydantic-модель для аннотации
+
     def create_user(self) -> CreateUserResponseSchema:
         request = CreateUserRequestSchema()
         response = self.create_user_api(request)
-        # Инициализируем модель через валидацию JSON строки
+
         return CreateUserResponseSchema.model_validate_json(response.text)
 
 
@@ -76,3 +76,4 @@ def build_users_gateway_locust_http_client(environment: Environment) -> UsersGat
     :return: экземпляр UsersGatewayHTTPClient с хуками сбора метрик.
     """
     return UsersGatewayHTTPClient(client=build_gateway_locust_http_client(environment))
+

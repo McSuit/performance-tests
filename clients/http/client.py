@@ -20,7 +20,7 @@ class HTTPClient:
             self,
             url: str | URL,
             params: QueryParams | None = None,
-            extensions: HTTPClientExtensions | None = None  # Добавили поддержку extensions
+            extensions: HTTPClientExtensions | None = None
     ) -> Response:
         """
         Выполняет GET-запрос.
@@ -30,13 +30,13 @@ class HTTPClient:
         :param extensions: Дополнительные данные, передаваемые через HTTPX extensions.
         :return: Объект Response с данными ответа.
         """
-        return self.client.get(url=url, params=params, extensions=extensions)  # Передаём extensions в httpx.Client
+        return self.client.get(url=url, params=params, extensions=extensions)
 
     def post(
             self,
             url: str | URL,
             json: Any | None = None,
-            extensions: HTTPClientExtensions | None = None  # Поддержка extensions для POST-запросов
+            extensions: HTTPClientExtensions | None = None
     ) -> Response:
         """
         Выполняет POST-запрос.
@@ -46,4 +46,5 @@ class HTTPClient:
         :param extensions: Дополнительные данные, передаваемые через HTTPX extensions.
         :return: Объект Response с данными ответа.
         """
-        return self.client.post(url=url, json=json, extensions=extensions)  # extensions передаётся в httpx.Client
+        return self.client.post(url=url, json=json, extensions=extensions)
+

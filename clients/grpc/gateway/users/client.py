@@ -26,7 +26,7 @@ class UsersGatewayGRPCClient(GRPCClient):
         """
         super().__init__(channel)
 
-        self.stub = UsersGatewayServiceStub(channel)  # gRPC-стаб, сгенерированный из .proto
+        self.stub = UsersGatewayServiceStub(channel)
 
     def get_user_api(self, request: GetUserRequest) -> GetUserResponse:
         """
@@ -92,3 +92,4 @@ def build_users_gateway_locust_grpc_client(environment: Environment) -> UsersGat
     :return: экземпляр UsersGatewayGRPCClient с хуками сбора метрик.
     """
     return UsersGatewayGRPCClient(channel=build_gateway_locust_grpc_client(environment))
+

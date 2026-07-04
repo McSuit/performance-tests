@@ -14,7 +14,7 @@ class UserSchema(BaseModel):
     phone_number: str = Field(alias="phoneNumber")
 
 
-# Добавили описание структуры ответа получения пользователя
+
 class GetUserResponseSchema(BaseModel):
     """
     Описание структуры ответа получения пользователя.
@@ -35,9 +35,10 @@ class CreateUserRequestSchema(BaseModel):
     phone_number: str = Field(alias="phoneNumber", default_factory=fake.phone_number)
 
 
-# Добавили описание структуры ответа создания пользователя
+
 class CreateUserResponseSchema(BaseModel):
     """
     Описание структуры ответа создания пользователя.
     """
     user: UserSchema
+

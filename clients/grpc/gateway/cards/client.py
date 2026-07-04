@@ -31,7 +31,7 @@ class CardsGatewayGRPCClient(GRPCClient):
         """
         super().__init__(channel)
 
-        self.stub = CardsGatewayServiceStub(channel)  # gRPC-стаб, сгенерированный из .proto
+        self.stub = CardsGatewayServiceStub(channel)
 
     def issue_virtual_card_api(self, request: IssueVirtualCardRequest) -> IssueVirtualCardResponse:
         """
@@ -89,7 +89,7 @@ def build_cards_gateway_grpc_client() -> CardsGatewayGRPCClient:
     return CardsGatewayGRPCClient(channel=build_gateway_grpc_client())
 
 
-# Новый билдер для нагрузочного тестирования
+
 def build_cards_gateway_locust_grpc_client(environment: Environment) -> CardsGatewayGRPCClient:
     """
     Функция создаёт экземпляр CardsGatewayGRPCClient адаптированного под Locust.
@@ -101,3 +101,4 @@ def build_cards_gateway_locust_grpc_client(environment: Environment) -> CardsGat
     :return: экземпляр CardsGatewayGRPCClient с хуками сбора метрик.
     """
     return CardsGatewayGRPCClient(channel=build_gateway_locust_grpc_client(environment))
+

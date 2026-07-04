@@ -21,7 +21,7 @@ class GatewayGRPCTaskSet(TaskSet):
     Используется, если порядок выполнения задач внутри таск-сета не имеет значения.
     """
 
-    # Аннотации полей с клиентами (появятся в self после on_start)
+
     users_gateway_client: UsersGatewayGRPCClient
     cards_gateway_client: CardsGatewayGRPCClient
     accounts_gateway_client: AccountsGatewayGRPCClient
@@ -62,3 +62,4 @@ class GatewayGRPCSequentialTaskSet(SequentialTaskSet):
         self.accounts_gateway_client = build_accounts_gateway_locust_grpc_client(self.user.environment)
         self.documents_gateway_client = build_documents_gateway_locust_grpc_client(self.user.environment)
         self.operations_gateway_client = build_operations_gateway_locust_grpc_client(self.user.environment)
+

@@ -2,7 +2,7 @@ import grpc.experimental.gevent as grpc_gevent
 
 from grpc import Channel
 
-# Инициализируем поддержку gevent в gRPC.
+
 grpc_gevent.init_gevent()
 
 
@@ -21,4 +21,5 @@ class GRPCClient:
         :param channel: gRPC-канал, через который происходит подключение к серверу.
                         Обычно создаётся один раз и переиспользуется.
         """
-        self.channel = channel  # Сохраняем канал внутри объекта для последующего использования
+        self.channel = channel
+

@@ -21,7 +21,7 @@ class GatewayHTTPTaskSet(TaskSet):
     Используется, если порядок выполнения задач внутри таск-сета не имеет значения.
     """
 
-    # Аннотации полей с клиентами (появятся в self после on_start)
+
     users_gateway_client: UsersGatewayHTTPClient
     cards_gateway_client: CardsGatewayHTTPClient
     accounts_gateway_client: AccountsGatewayHTTPClient
@@ -63,3 +63,4 @@ class GatewayHTTPSequentialTaskSet(SequentialTaskSet):
         self.accounts_gateway_client = build_accounts_gateway_locust_http_client(self.user.environment)
         self.documents_gateway_client = build_documents_gateway_locust_http_client(self.user.environment)
         self.operations_gateway_client = build_operations_gateway_locust_http_client(self.user.environment)
+
